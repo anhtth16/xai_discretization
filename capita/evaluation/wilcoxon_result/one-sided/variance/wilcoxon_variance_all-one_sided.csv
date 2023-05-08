@@ -1,0 +1,21 @@
+disc_compare,wtest_stat,p_value,model,metric
+ewd vs efd,1673.5,0.3238550097352593,all,variance
+ewd vs ffd,1153.0,0.9815470549855995,all,variance
+ewd vs cm,1541.0,0.49900643384037296,all,variance
+ewd vs dt,1547.5,0.48609335149938293,all,variance
+efd vs ewd,1486.5,0.6761449902647407,all,variance
+efd vs ffd,1120.0,0.987714739319692,all,variance
+efd vs cm,1688.0,0.29881375815890554,all,variance
+efd vs dt,1518.5,0.6181243584949526,all,variance
+ffd vs ewd,2007.0,0.018452945014400524,all,variance
+ffd vs efd,2040.0,0.012285260680308023,all,variance
+ffd vs cm,2007.0,0.01845238161613343,all,variance
+ffd vs dt,1981.5,0.014026814195268189,all,variance
+cm vs ewd,1540.0,0.5009935661596271,all,variance
+cm vs efd,1472.0,0.7011862418410945,all,variance
+cm vs ffd,1153.0,0.9815476183838666,all,variance
+cm vs dt,1408.5,0.5347163114909619,all,variance
+dt vs ewd,1533.5,0.5139066485006171,all,variance
+dt vs efd,1641.5,0.3818756415050474,all,variance
+dt vs ffd,1099.5,0.9859731858047318,all,variance
+dt vs cm,1441.5,0.4652836885090381,all,variance

@@ -1,0 +1,21 @@
+disc_compare,wtest_stat,p_value,model,metric
+ewd vs efd,107.0,0.07968902587890625,KNN,variance
+ewd vs ffd,43.0,0.945556640625,KNN,variance
+ewd vs cm,42.0,0.9105949867686274,KNN,variance
+ewd vs dt,80.0,0.44498443603515625,KNN,variance
+efd vs ewd,46.0,0.9272842407226562,KNN,variance
+efd vs ffd,21.0,0.9972152709960938,KNN,variance
+efd vs cm,25.0,0.9869081759514656,KNN,variance
+efd vs dt,54.0,0.8579177856445312,KNN,variance
+ffd vs ewd,110.0,0.0601043701171875,KNN,variance
+ffd vs efd,132.0,0.003326416015625,KNN,variance
+ffd vs cm,65.0,0.7104721069335938,KNN,variance
+ffd vs dt,101.0,0.13166046142578125,KNN,variance
+cm vs ewd,94.0,0.08940501323137268,KNN,variance
+cm vs efd,111.0,0.013091824048534366,KNN,variance
+cm vs ffd,88.0,0.30561065673828125,KNN,variance
+cm vs dt,97.5,0.06354682407982837,KNN,variance
+dt vs ewd,73.0,0.57318115234375,KNN,variance
+dt vs efd,99.0,0.15302276611328125,KNN,variance
+dt vs ffd,52.0,0.8782501220703125,KNN,variance
+dt vs cm,38.5,0.9364531759201716,KNN,variance
