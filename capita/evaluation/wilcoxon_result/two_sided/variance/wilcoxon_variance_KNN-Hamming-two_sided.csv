@@ -1,0 +1,8 @@
+disc_compare,wtest_stat,p_value,model,metric
+ewd vs efd,29.0,0.7221076526150257,KNN-Hamming,variance
+ewd vs ffd,6.0,0.0068359375,KNN-Hamming,variance
+ewd vs cm,24.0,0.26611328125,KNN-Hamming,variance
+efd vs ffd,13.0,0.04248046875,KNN-Hamming,variance
+efd vs cm,26.0,0.33935546875,KNN-Hamming,variance
+efd vs dt,30.0,0.5185546875,KNN-Hamming,variance
+ffd vs cm,33.0,0.67724609375,KNN-Hamming,variance

@@ -1,0 +1,11 @@
+disc_compare,wtest_stat,p_value,model,metric
+ewd vs efd,15.0,0.06396484375,KNN-Hamming,bias
+ewd vs ffd,30.0,0.5185546875,KNN-Hamming,bias
+ewd vs cm,33.0,0.67724609375,KNN-Hamming,bias
+efd vs ffd,27.0,0.38037109375,KNN-Hamming,bias
+efd vs cm,38.0,0.9697265625,KNN-Hamming,bias
+efd vs dt,36.0,0.85009765625,KNN-Hamming,bias
+ffd vs cm,26.0,0.33935546875,KNN-Hamming,bias
+ffd vs dt,18.0,0.10986328125,KNN-Hamming,bias
+cm vs dt,31.5,0.6220703125,KNN-Hamming,bias
+dt vs cm,31.5,0.5693359375,KNN-Hamming,bias

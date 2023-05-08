@@ -1,0 +1,6 @@
+disc_compare,wtest_stat,p_value,model,metric
+ewd vs efd,5.0,0.625,KNN-VDM,variance
+ewd vs ffd,3.0,0.3125,KNN-VDM,variance
+efd vs ffd,4.0,0.4375,KNN-VDM,variance
+efd vs cm,7.0,1.0,KNN-VDM,variance
+cm vs dt,N/A,N/A,KNN-VDM,variance

@@ -1,0 +1,11 @@
+disc_compare,wtest_stat,p_value,model,metric
+ewd vs efd,67.5,0.0020291799321498598,ID3,variance
+ewd vs ffd,177.5,0.25793365048213523,ID3,variance
+ewd vs cm,203.0,0.5440062075841892,ID3,variance
+ewd vs dt,183.0,0.30860205846196165,ID3,variance
+efd vs ffd,208.0,0.8372389846976191,ID3,variance
+efd vs cm,218.0,0.7655192919016102,ID3,variance
+efd vs dt,228.0,0.9262473087566314,ID3,variance
+ffd vs cm,100.5,0.05676983856919922,ID3,variance
+ffd vs dt,189.5,0.5448567740806481,ID3,variance
+cm vs dt,213.0,0.6883436817474532,ID3,variance
