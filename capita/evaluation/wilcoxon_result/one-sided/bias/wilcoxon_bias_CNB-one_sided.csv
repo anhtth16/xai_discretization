@@ -1,0 +1,17 @@
+disc_compare,wtest_stat,p_value,model,metric
+ewd vs efd,137.0,0.22744442234454088,CNB,bias
+ewd vs ffd,169.0,0.08809590339660645,CNB,bias
+ewd vs cm,171.5,0.07798528671264648,CNB,bias
+efd vs ewd,94.0,0.7725555776554591,CNB,bias
+efd vs ffd,115.0,0.6488075256347656,CNB,bias
+efd vs cm,136.0,0.3872644901275635,CNB,bias
+efd vs dt,138.0,0.36309194564819336,CNB,bias
+ffd vs ewd,84.0,0.9170706272125244,CNB,bias
+ffd vs cm,148.0,0.2514200210571289,CNB,bias
+ffd vs dt,134.5,0.2544520780903773,CNB,bias
+cm vs ewd,81.5,0.9312553405761719,CNB,bias
+cm vs efd,117.0,0.6248810291290283,CNB,bias
+cm vs ffd,105.0,0.758704423904419,CNB,bias
+cm vs dt,107.0,0.4702404929502198,CNB,bias
+dt vs ffd,96.5,0.7455479219096227,CNB,bias
+dt vs cm,103.0,0.5297595070497801,CNB,bias
