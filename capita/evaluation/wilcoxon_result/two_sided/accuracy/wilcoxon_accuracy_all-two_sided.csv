@@ -1,0 +1,11 @@
+disc_compare,wtest_stat,p_value,model,metric
+ewd vs efd,1417.5,0.6696826965897276,all,accuracy
+ewd vs ffd,1391.5,0.20525392613800153,all,accuracy
+ewd vs cm,1178.0,0.033979434961769604,all,accuracy
+ewd vs dt,992.5,0.004082510117860723,all,accuracy
+efd vs ffd,1634.0,0.9006815677755527,all,accuracy
+efd vs cm,1415.0,0.18524463638294275,all,accuracy
+efd vs dt,1005.5,0.004979332985355859,all,accuracy
+ffd vs cm,1283.5,0.14723642557547034,all,accuracy
+ffd vs dt,1049.5,0.01444218211009749,all,accuracy
+cm vs dt,1402.5,0.2243728362035019,all,accuracy
