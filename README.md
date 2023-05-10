@@ -19,6 +19,7 @@ Three models are used for classification.
 - Classical Naive Bayes, 
 - Decision Tree (ID3), and 
 - KNN models (KNN-VDM for phase 1, KNN-Hamming for phase 2)
+
 Some datasets have imbalanced classes, thus, we performed SMOTE transformation before training the models (This issue happens mostly with datasets in capita phase)
 
 **STEP 3: Evaluation:**
