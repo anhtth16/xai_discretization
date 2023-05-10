@@ -1,0 +1,27 @@
+Evaluation result: KNN-Hamming, DT, max_depth = 2
+Average expected loss: 0.220
+Average bias: 0.206
+Average variance: 0.101
+Sklearn 0-1 loss: 0.183
+Execution time KNN-Hamming- default, DT, max_depth = 2 is: 12839.072197914124.
+========================================
+Evaluation result: KNN-Hamming, DT, max_depth = 3
+Average expected loss: 0.216
+Average bias: 0.202
+Average variance: 0.095
+Sklearn 0-1 loss: 0.181
+Execution time KNN-Hamming- default, DT, max_depth = 3 is: 14678.690522432327.
+========================================
+Average expected loss: 0.215
+Average bias: 0.196
+Average variance: 0.099
+Sklearn 0-1 loss: 0.185
+Execution time KNN-Hamming- default, DT, max_depth = 4 is: 16024.85403418541.
+========================================
+Evaluation result: KNN-Hamming, DT, max_depth = 5
+Average expected loss: 0.211
+Average bias: 0.195
+Average variance: 0.096
+Sklearn 0-1 loss: 0.186
+Execution time KNN-Hamming- default, DT, max_depth = 5 is: 8972.234018325806.
+========================================

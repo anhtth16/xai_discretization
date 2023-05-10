@@ -1,0 +1,28 @@
+Evaluation result: ID3, CM, k = 6
+Average expected loss: 0.250
+Average bias: 0.255
+Average variance: 0.011
+Sklearn 0-1 loss: 0.245
+Execution time ID3- default, CM, k = 6 is: 99.17655825614929.
+========================================
+Evaluation result: ID3, CM, k = 8
+Average expected loss: 0.264
+Average bias: 0.241
+Average variance: 0.051
+Sklearn 0-1 loss: 0.301
+Execution time ID3- default, CM, k = 8 is: 100.74509787559509.
+========================================
+Evaluation result: ID3, CM, k = 10
+Average expected loss: 0.275
+Average bias: 0.275
+Average variance: 0.041
+Sklearn 0-1 loss: 0.275
+Execution time ID3- default, cm, k = 10 is: 102.91762256622314.
+========================================
+Evaluation result: ID3, CM, k = 15
+Average expected loss: 0.287
+Average bias: 0.298
+Average variance: 0.028
+Sklearn 0-1 loss: 0.299
+Execution time ID3- default, cm, k = 15 is: 107.4523777961731.
+========================================

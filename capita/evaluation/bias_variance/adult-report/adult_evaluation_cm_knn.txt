@@ -1,0 +1,28 @@
+Evaluation result: KNN-Hamming, CM, k = 6
+Average expected loss: 0.288
+Average bias: 0.254
+Average variance: 0.184
+Sklearn 0-1 loss: 0.190
+Execution time KNN-Hamming- default, CM, k = 6 is: 2228.571107149124.
+========================================
+Evaluation result: KNN-Hamming, CM, k = 8
+Average expected loss: 0.280
+Average bias: 0.244
+Average variance: 0.165
+Sklearn 0-1 loss: 0.197
+Execution time KNN-Hamming- default, CM, k = 8 is: 3260.681739091873.
+========================================
+Evaluation result: KNN-Hamming, CM, k = 10
+Average expected loss: 0.275
+Average bias: 0.248
+Average variance: 0.155
+Sklearn 0-1 loss: 0.197
+Execution time KNN-Hamming- default, cm, k = 10 is: 3465.309084892273.
+========================================
+Evaluation result: KNN-Hamming, CM, k = 15
+Average expected loss: 0.275
+Average bias: 0.253
+Average variance: 0.151
+Sklearn 0-1 loss: 0.204
+Execution time KNN-Hamming- default, cm, k = 15 is: 2969.542760848999.
+========================================
