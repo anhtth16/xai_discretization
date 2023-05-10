@@ -1,0 +1,21 @@
+Evaluation result: ID3, EWD, k = 4
+Average expected loss: 0.059
+Average bias: 0.030
+Average variance: 0.045
+Sklearn 0-1 loss: 0.041
+Execution time ID3- default, EWD, k = 4 is: 3712.1172425746918.
+========================================
+Evaluation result: ID3, EWD, k = 7
+Average expected loss: 0.056
+Average bias: 0.028
+Average variance: 0.044
+Sklearn 0-1 loss: 0.045
+Execution time ID3- default, EWD, k = 7 is: 5532.991368055344.
+========================================
+Evaluation result: ID3, EWD, k = 10
+Average expected loss: 0.058
+Average bias: 0.028
+Average variance: 0.044
+Sklearn 0-1 loss: 0.044
+Execution time ID3- default, EWD, k = 10 is: 6938.189299106598.
+========================================

@@ -1,0 +1,70 @@
+Evaluation result: KNN-Hamming, EWD, k = 4
+Average expected loss: 0.062
+Average bias: 0.042
+Average variance: 0.037
+Sklearn 0-1 loss: 0.045
+Execution time KNN-Hamming- default, EWD, k = 4 is: 882.9642083644867.
+========================================
+Evaluation result: KNN-Hamming, EWD, k = 7
+Average expected loss: 0.071
+Average bias: 0.052
+Average variance: 0.043
+Sklearn 0-1 loss: 0.054
+Execution time KNN-Hamming- default, EWD, k = 7 is: 1036.9645762443542.
+========================================
+Evaluation result: KNN-Hamming, EWD, k = 10
+Average expected loss: 0.068
+Average bias: 0.050
+Average variance: 0.044
+Sklearn 0-1 loss: 0.050
+Execution time KNN-Hamming- default, EWD, k = 10 is: 1044.0508708953857.
+========================================
+Evaluation result: KNN-Hamming, EFD, k = 4
+Average expected loss: 0.064
+Average bias: 0.043
+Average variance: 0.039
+Sklearn 0-1 loss: 0.045
+Execution time KNN-Hamming- default, efd, k = 4 is: 1046.5197954177856.
+========================================
+Evaluation result: KNN-Hamming, EFD, k = 7
+Average expected loss: 0.065
+Average bias: 0.049
+Average variance: 0.038
+Sklearn 0-1 loss: 0.052
+Execution time KNN-Hamming- default, efd, k = 7 is: 1038.1373662948608.
+========================================
+Evaluation result: KNN-Hamming, EFD, k = 10
+Average expected loss: 0.065
+Average bias: 0.048
+Average variance: 0.039
+Sklearn 0-1 loss: 0.050
+Execution time KNN-Hamming- default, efd, k = 10 is: 1048.7679061889648.
+========================================
+Evaluation result: KNN-Hamming, FFD, m = 10
+Average expected loss: 0.075
+Average bias: 0.058
+Average variance: 0.045
+Sklearn 0-1 loss: 0.059
+Execution time KNN-Hamming- default, ffd, m = 10 is: 1050.2605392932892.
+========================================
+Evaluation result: KNN-Hamming, FFD, m = 30
+Average expected loss: 0.071
+Average bias: 0.053
+Average variance: 0.041
+Sklearn 0-1 loss: 0.056
+Execution time KNN-Hamming- default, ffd, m = 30 is: 1051.1229360103607.
+========================================
+Evaluation result: KNN-Hamming, FFD, m = 60
+Average expected loss: 0.068
+Average bias: 0.050
+Average variance: 0.039
+Sklearn 0-1 loss: 0.050
+Execution time KNN-Hamming- default, ffd, m = 60 is: 1046.874623298645.
+========================================
+Evaluation result: KNN-Hamming, FFD, m = 100
+Average expected loss: 0.067
+Average bias: 0.052
+Average variance: 0.038
+Sklearn 0-1 loss: 0.054
+Execution time KNN-Hamming- default, ffd, m = 100 is: 1054.6800599098206.
+========================================

@@ -1,0 +1,7 @@
+Evaluation result: ID3, FFD, m = 60
+Average expected loss: 0.049
+Average bias: 0.016
+Average variance: 0.042
+Sklearn 0-1 loss: 0.038
+Execution time ID3- default, ffd, m = 60 is: 19852.637920618057.
+========================================
