@@ -1,0 +1,408 @@
+Models results: model ID3, dataset pageblock, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.95      1229
+           1       0.63      0.83      0.72        82
+           2       0.32      0.86      0.46         7
+           3       0.73      0.86      0.79        22
+           4       0.28      0.72      0.40        29
+
+    accuracy                           0.91      1369
+   macro avg       0.59      0.84      0.66      1369
+weighted avg       0.95      0.91      0.92      1369
+
+G-mean: 0.835856147413349
+Time for training model ID3- default, CM, k = 6 is: 0.4488799571990967.
+========================================
+Models results: model CNB, dataset pageblock, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.96      1229
+           1       0.70      0.90      0.79        82
+           2       0.41      1.00      0.58         7
+           3       0.42      0.86      0.57        22
+           4       0.34      0.76      0.47        29
+
+    accuracy                           0.92      1369
+   macro avg       0.58      0.89      0.67      1369
+weighted avg       0.95      0.92      0.93      1369
+
+G-mean: 0.8853945380002646
+Time for training model CNB- default, CM, k = 6 is: 0.014590024948120117.
+========================================
+Models results: model KNN-Hamming, dataset pageblock, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.98      1229
+           1       0.86      0.84      0.85        82
+           2       0.50      0.71      0.59         7
+           3       0.70      0.95      0.81        22
+           4       0.53      0.66      0.58        29
+
+    accuracy                           0.96      1369
+   macro avg       0.71      0.83      0.76      1369
+weighted avg       0.96      0.96      0.96      1369
+
+G-mean: 0.8175275043831385
+Time for training model KNN-Hamming- default, CM, k = 6 is: 0.2596099376678467.
+========================================
+Models results: model ID3, dataset pageblock, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.91      0.95      1229
+           1       0.67      0.83      0.74        82
+           2       0.27      1.00      0.42         7
+           3       0.51      0.91      0.66        22
+           4       0.29      0.66      0.40        29
+
+    accuracy                           0.90      1369
+   macro avg       0.55      0.86      0.64      1369
+weighted avg       0.94      0.90      0.92      1369
+
+G-mean: 0.8530499882247009
+Time for training model ID3- default, CM, k = 8 is: 0.41512584686279297.
+========================================
+Models results: model CNB, dataset pageblock, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.96      1229
+           1       0.69      0.90      0.78        82
+           2       0.50      1.00      0.67         7
+           3       0.44      0.91      0.60        22
+           4       0.36      0.83      0.50        29
+
+    accuracy                           0.92      1369
+   macro avg       0.60      0.91      0.70      1369
+weighted avg       0.95      0.92      0.93      1369
+
+G-mean: 0.9100662260205495
+Time for training model CNB- default, CM, k = 8 is: 0.022634029388427734.
+========================================
+Models results: model KNN-Hamming, dataset pageblock, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98      1229
+           1       0.81      0.80      0.81        82
+           2       0.75      0.86      0.80         7
+           3       0.72      0.82      0.77        22
+           4       0.57      0.69      0.62        29
+
+    accuracy                           0.96      1369
+   macro avg       0.77      0.83      0.80      1369
+weighted avg       0.96      0.96      0.96      1369
+
+G-mean: 0.8239606720555198
+Time for training model KNN-Hamming- default, CM, k = 8 is: 0.36420106887817383.
+========================================
+Models results: model ID3, dataset pageblock, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.93      0.96      1229
+           1       0.60      0.84      0.70        82
+           2       0.28      1.00      0.44         7
+           3       0.79      0.86      0.83        22
+           4       0.39      0.69      0.50        29
+
+    accuracy                           0.92      1369
+   macro avg       0.61      0.86      0.68      1369
+weighted avg       0.94      0.92      0.93      1369
+
+G-mean: 0.8578157176282504
+Time for training model ID3- default, cm, k = 10 is: 0.4687039852142334.
+========================================
+Models results: model CNB, dataset pageblock, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.96      1229
+           1       0.68      0.91      0.78        82
+           2       0.64      1.00      0.78         7
+           3       0.43      0.91      0.59        22
+           4       0.38      0.86      0.53        29
+
+    accuracy                           0.92      1369
+   macro avg       0.63      0.92      0.73      1369
+weighted avg       0.95      0.92      0.93      1369
+
+G-mean: 0.9199932892105276
+Time for training model CNB- default, cm, k = 10 is: 0.016699790954589844.
+========================================
+Models results: model KNN-Hamming, dataset pageblock, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98      1229
+           1       0.87      0.89      0.88        82
+           2       1.00      0.86      0.92         7
+           3       0.68      0.95      0.79        22
+           4       0.56      0.66      0.60        29
+
+    accuracy                           0.96      1369
+   macro avg       0.82      0.87      0.84      1369
+weighted avg       0.97      0.96      0.96      1369
+
+G-mean: 0.857928984745784
+Time for training model KNN-Hamming- default, cm, k = 10 is: 0.43752288818359375.
+========================================
+Models results: model ID3, dataset pageblock, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.95      1229
+           1       0.66      0.87      0.75        82
+           2       0.24      1.00      0.39         7
+           3       0.50      0.91      0.65        22
+           4       0.37      0.72      0.49        29
+
+    accuracy                           0.91      1369
+   macro avg       0.55      0.88      0.64      1369
+weighted avg       0.95      0.91      0.92      1369
+
+G-mean: 0.8781565057834892
+Time for training model ID3- default, cm, k = 15 is: 0.6027891635894775.
+========================================
+Models results: model CNB, dataset pageblock, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.96      1229
+           1       0.69      0.90      0.78        82
+           2       0.64      1.00      0.78         7
+           3       0.44      0.91      0.60        22
+           4       0.37      0.86      0.52        29
+
+    accuracy                           0.92      1369
+   macro avg       0.63      0.92      0.73      1369
+weighted avg       0.95      0.92      0.93      1369
+
+G-mean: 0.917851342309209
+Time for training model CNB- default, cm, k = 15 is: 0.0169370174407959.
+========================================
+Models results: model KNN-Hamming, dataset pageblock, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98      1229
+           1       0.86      0.87      0.86        82
+           2       0.86      0.86      0.86         7
+           3       0.66      0.86      0.75        22
+           4       0.47      0.69      0.56        29
+
+    accuracy                           0.95      1369
+   macro avg       0.76      0.85      0.80      1369
+weighted avg       0.96      0.95      0.96      1369
+
+G-mean: 0.8439002987332378
+Time for training model KNN-Hamming- default, cm, k = 15 is: 0.522078275680542.
+========================================
+Models results: model ID3, dataset pageblock, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.82      0.90      1229
+           1       0.69      0.90      0.78        82
+           2       0.05      0.71      0.09         7
+           3       0.71      1.00      0.83        22
+           4       0.22      0.76      0.34        29
+
+    accuracy                           0.83      1369
+   macro avg       0.53      0.84      0.59      1369
+weighted avg       0.95      0.83      0.88      1369
+
+G-mean: 0.8336593565816821
+Time for training model ID3- default, DT, max_depth = 2 is: 0.34458088874816895.
+========================================
+Models results: model CNB, dataset pageblock, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       1.00      0.91      0.95      1229
+           1       0.64      0.98      0.77        82
+           2       0.41      1.00      0.58         7
+           3       0.74      0.77      0.76        22
+           4       0.27      0.79      0.40        29
+
+    accuracy                           0.91      1369
+   macro avg       0.61      0.89      0.69      1369
+weighted avg       0.95      0.91      0.92      1369
+
+G-mean: 0.884694045535255
+Time for training model CNB- default, DT, max_depth = 2 is: 0.01566481590270996.
+========================================
+Models results: model KNN-Hamming, dataset pageblock, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98      1229
+           1       0.83      0.85      0.84        82
+           2       0.62      0.71      0.67         7
+           3       0.84      0.73      0.78        22
+           4       0.68      0.52      0.59        29
+
+    accuracy                           0.96      1369
+   macro avg       0.79      0.76      0.77      1369
+weighted avg       0.96      0.96      0.96      1369
+
+G-mean: 0.7418639435564657
+Time for training model KNN-Hamming- default, DT, max_depth = 2 is: 0.22953510284423828.
+========================================
+Models results: model ID3, dataset pageblock, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.98      0.81      0.89      1229
+           1       0.73      0.88      0.80        82
+           2       0.04      0.57      0.08         7
+           3       0.79      1.00      0.88        22
+           4       0.16      0.76      0.27        29
+
+    accuracy                           0.81      1369
+   macro avg       0.54      0.80      0.58      1369
+weighted avg       0.94      0.81      0.86      1369
+
+G-mean: 0.790074338055031
+Time for training model ID3- default, DT, max_depth = 3 is: 0.40765810012817383.
+========================================
+Models results: model CNB, dataset pageblock, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.91      0.95      1229
+           1       0.64      0.96      0.77        82
+           2       0.45      0.71      0.56         7
+           3       0.61      0.86      0.72        22
+           4       0.31      0.90      0.46        29
+
+    accuracy                           0.91      1369
+   macro avg       0.60      0.87      0.69      1369
+weighted avg       0.95      0.91      0.92      1369
+
+G-mean: 0.8645397303313558
+Time for training model CNB- default, DT, max_depth = 3 is: 0.015070915222167969.
+========================================
+Models results: model KNN-Hamming, dataset pageblock, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98      1229
+           1       0.79      0.91      0.85        82
+           2       0.83      0.71      0.77         7
+           3       0.86      0.86      0.86        22
+           4       0.61      0.69      0.65        29
+
+    accuracy                           0.96      1369
+   macro avg       0.82      0.83      0.82      1369
+weighted avg       0.96      0.96      0.96      1369
+
+G-mean: 0.8234786009376839
+Time for training model KNN-Hamming- default, DT, max_depth = 3 is: 0.272996187210083.
+========================================
+Models results: model ID3, dataset pageblock, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.98      0.91      0.94      1229
+           1       0.81      0.89      0.85        82
+           2       0.29      0.57      0.38         7
+           3       0.78      0.82      0.80        22
+           4       0.18      0.62      0.28        29
+
+    accuracy                           0.90      1369
+   macro avg       0.61      0.76      0.65      1369
+weighted avg       0.95      0.90      0.92      1369
+
+G-mean: 0.7486773575385066
+Time for training model ID3- default, DT, max_depth = 4 is: 0.7956762313842773.
+========================================
+Models results: model CNB, dataset pageblock, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.92      0.95      1229
+           1       0.68      0.94      0.79        82
+           2       0.38      0.71      0.50         7
+           3       0.61      0.86      0.72        22
+           4       0.33      0.83      0.48        29
+
+    accuracy                           0.92      1369
+   macro avg       0.60      0.85      0.69      1369
+weighted avg       0.95      0.92      0.93      1369
+
+G-mean: 0.8488753300459023
+Time for training model CNB- default, DT, max_depth = 4 is: 0.021340131759643555.
+========================================
+Models results: model KNN-Hamming, dataset pageblock, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98      1229
+           1       0.82      0.83      0.82        82
+           2       0.60      0.43      0.50         7
+           3       0.89      0.73      0.80        22
+           4       0.68      0.66      0.67        29
+
+    accuracy                           0.96      1369
+   macro avg       0.79      0.72      0.75      1369
+weighted avg       0.96      0.96      0.96      1369
+
+G-mean: 0.6981828179904542
+Time for training model KNN-Hamming- default, DT, max_depth = 4 is: 0.40934228897094727.
+========================================
+Models results: model ID3, dataset pageblock, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.99      0.94      0.96      1229
+           1       0.81      0.90      0.86        82
+           2       0.31      0.57      0.40         7
+           3       0.79      0.86      0.83        22
+           4       0.31      0.76      0.44        29
+
+    accuracy                           0.93      1369
+   macro avg       0.64      0.81      0.70      1369
+weighted avg       0.96      0.93      0.94      1369
+
+G-mean: 0.7949743286264084
+Time for training model ID3- default, DT, max_depth = 5 is: 0.6128771305084229.
+========================================
+Models results: model CNB, dataset pageblock, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96      1229
+           1       0.71      0.96      0.82        82
+           2       0.32      0.86      0.46         7
+           3       0.53      0.77      0.63        22
+           4       0.34      0.79      0.47        29
+
+    accuracy                           0.92      1369
+   macro avg       0.58      0.86      0.67      1369
+weighted avg       0.95      0.92      0.93      1369
+
+G-mean: 0.8587302067217089
+Time for training model CNB- default, DT, max_depth = 5 is: 0.018091917037963867.
+========================================
+Models results: model KNN-Hamming, dataset pageblock, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1229
+           1       0.82      0.80      0.81        82
+           2       0.67      0.86      0.75         7
+           3       0.80      0.73      0.76        22
+           4       0.50      0.55      0.52        29
+
+    accuracy                           0.95      1369
+   macro avg       0.75      0.78      0.77      1369
+weighted avg       0.95      0.95      0.95      1369
+
+G-mean: 0.7693943088279287
+Time for training model KNN-Hamming- default, DT, max_depth = 5 is: 0.44864487648010254.
+========================================

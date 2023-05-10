@@ -1,0 +1,56 @@
+Evaluation result: Knn-Hamming, CM, k = 6
+Average expected loss: 0.051
+Average bias: 0.048
+Average variance: 0.014
+Sklearn 0-1 loss: 0.045
+Execution time Knn-Hamming- default, CM, k = 6 is: 57.22951292991638.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 8
+Average expected loss: 0.046
+Average bias: 0.041
+Average variance: 0.014
+Sklearn 0-1 loss: 0.044
+Execution time Knn-Hamming- default, CM, k = 8 is: 61.78674793243408.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 10
+Average expected loss: 0.044
+Average bias: 0.040
+Average variance: 0.016
+Sklearn 0-1 loss: 0.039
+Execution time Knn-Hamming- default, cm, k = 10 is: 73.5432538986206.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 15
+Average expected loss: 0.047
+Average bias: 0.044
+Average variance: 0.016
+Sklearn 0-1 loss: 0.046
+Execution time Knn-Hamming- default, cm, k = 15 is: 81.12780499458313.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 2
+Average expected loss: 0.089
+Average bias: 0.070
+Average variance: 0.027
+Sklearn 0-1 loss: 0.043
+Execution time Knn-Hamming- default, DT, max_depth = 2 is: 42.95855116844177.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 3
+Average expected loss: 0.058
+Average bias: 0.045
+Average variance: 0.025
+Sklearn 0-1 loss: 0.039
+Execution time Knn-Hamming- default, DT, max_depth = 3 is: 46.16014575958252.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 4
+Average expected loss: 0.054
+Average bias: 0.050
+Average variance: 0.017
+Sklearn 0-1 loss: 0.043
+Execution time Knn-Hamming- default, DT, max_depth = 4 is: 53.01468300819397.
+========================================
+Evaluation result: KNN-Hamming, DT, max_depth = 5
+Average expected loss: 0.051
+Average bias: 0.049
+Average variance: 0.018
+Sklearn 0-1 loss: 0.050
+Execution time KNN-Hamming- default, DT, max_depth = 5 is: 59.70111680030823.
+========================================

@@ -1,0 +1,56 @@
+Evaluation result: ID3, CM, k = 6
+Average expected loss: 0.091
+Average bias: 0.089
+Average variance: 0.022
+Sklearn 0-1 loss: 0.093
+Execution time ID3- default, CM, k = 6 is: 78.18655204772949.
+========================================
+Evaluation result: ID3, CM, k = 8
+Average expected loss: 0.091
+Average bias: 0.089
+Average variance: 0.035
+Sklearn 0-1 loss: 0.096
+Execution time ID3- default, CM, k = 8 is: 84.49270391464233.
+========================================
+Evaluation result: ID3, CM, k = 10
+Average expected loss: 0.088
+Average bias: 0.066
+Average variance: 0.048
+Sklearn 0-1 loss: 0.084
+Execution time ID3- default, cm, k = 10 is: 88.63566398620605.
+========================================
+Evaluation result: ID3, CM, k = 15
+Average expected loss: 0.090
+Average bias: 0.079
+Average variance: 0.041
+Sklearn 0-1 loss: 0.091
+Execution time ID3- default, cm, k = 15 is: 91.93217611312866.
+========================================
+Evaluation result: ID3, DT, max_depth = 2
+Average expected loss: 0.157
+Average bias: 0.169
+Average variance: 0.033
+Sklearn 0-1 loss: 0.171
+Execution time ID3- default, DT, max_depth = 2 is: 58.806034088134766.
+========================================
+Evaluation result: ID3, DT, max_depth = 3
+Average expected loss: 0.172
+Average bias: 0.152
+Average variance: 0.045
+Sklearn 0-1 loss: 0.186
+Execution time ID3- default, DT, max_depth = 3 is: 67.16443395614624.
+========================================
+Evaluation result: ID3, DT, max_depth = 4
+Average expected loss: 0.126
+Average bias: 0.099
+Average variance: 0.063
+Sklearn 0-1 loss: 0.100
+Execution time ID3- default, DT, max_depth = 4 is: 83.89156007766724.
+========================================
+Evaluation result: ID3, DT, max_depth = 5
+Average expected loss: 0.084
+Average bias: 0.069
+Average variance: 0.039
+Sklearn 0-1 loss: 0.069
+Execution time ID3- default, DT, max_depth = 5 is: 93.24680089950562.
+========================================
