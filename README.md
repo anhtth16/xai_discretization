@@ -1,7 +1,7 @@
 # Navigation Guidelines
 There are two phases in this projects.
-* Phase 1: baseline folder
-* Phase 2: capita folder
+* Phase 1: [baseline folder](https://github.com/anhtth16/xai_discretization-capita/tree/main/baseline) Result of phase 1 has been presented at BNAIC BeNeLearn 2022 Conference(https://bnaic2022.uantwerpen.be/)
+* Phase 2: [capita folder](https://github.com/anhtth16/xai_discretization-capita/tree/main/capita): Extended experiment with new findings. The draft paper can be found in [this link](https://www.overleaf.com/read/xgshfwsfzsyj).
 
 
 Both phases follow the same pipeline:
