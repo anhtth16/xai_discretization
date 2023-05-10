@@ -4,16 +4,16 @@ There are two phases in this projects.
 Result of phase 1 has been presented at BNAIC BeNeLearn 2022 Conference(https://bnaic2022.uantwerpen.be/)
 * Phase 2: [capita folder](https://github.com/anhtth16/xai_discretization-capita/tree/main/capita): Extended experiment with new findings. The draft paper can be found in [this link](https://www.overleaf.com/read/xgshfwsfzsyj).
 
-
 Both phases follow the same pipeline:
 
 **STEP 1: Discretization data:**
+Input data: 10 public datasets in UCI Repository (5 datasets for each phase).
 Clean input data is discretized using different methods. The output will be used to train models (STEP 2)
 
 * Unsupervised discrezers: Equal Width Discretizer (EWD), Equal Frequency Discretizer (EFD), Fixed Frequency Discretizer (FFD)
 * Supervised discretizers:
-- ChiMerge
-- DecisionTree
+  - ChiMerge
+  - DecisionTree
 
 **STEP 2: Training models:**
 Three models are used for classification.
@@ -30,7 +30,7 @@ Analysis performed in Phase 2 include output of both phase 1 and phase 2.
 *  Bias-Variance decomposition: performed on the models after training
 * Time for discretization, time for training models
 * Wilcoxon signed rank tests for 3 metrics: accuracy, bias, variance: 
-  - Two-sided test for phase 1, 
+  - Two-sided test for phase 1
   - One-sided test for phase 2
 
 
