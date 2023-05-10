@@ -1,0 +1,420 @@
+Models results: model ID3, dataset tranfusion, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.35      0.50       142
+           1       0.31      0.91      0.46        45
+
+    accuracy                           0.48       187
+   macro avg       0.62      0.63      0.48       187
+weighted avg       0.78      0.48      0.49       187
+
+G-mean: 0.5607115979606958
+Time for training model ID3- default, EWD, k = 4 is: 0.027224063873291016.
+========================================
+Models results: model CNB, dataset tranfusion, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.34      0.50       142
+           1       0.31      0.93      0.46        45
+
+    accuracy                           0.48       187
+   macro avg       0.62      0.64      0.48       187
+weighted avg       0.79      0.48      0.49       187
+
+G-mean: 0.5616875979995275
+Time for training model CNB- default, EWD, k = 4 is: 0.007200002670288086.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       1.00      0.23      0.37       142
+           1       0.29      1.00      0.45        45
+
+    accuracy                           0.41       187
+   macro avg       0.65      0.61      0.41       187
+weighted avg       0.83      0.41      0.39       187
+
+G-mean: 0.47471266327754136
+Time for training model KNN-Hamming- default, EWD, k = 4 is: 0.01055908203125.
+========================================
+Models results: model ID3, dataset tranfusion, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.54      0.68       142
+           1       0.36      0.80      0.49        45
+
+    accuracy                           0.60       187
+   macro avg       0.63      0.67      0.58       187
+weighted avg       0.77      0.60      0.63       187
+
+G-mean: 0.6586370904385879
+Time for training model ID3- default, EWD, k = 7 is: 0.03779196739196777.
+========================================
+Models results: model CNB, dataset tranfusion, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.89      0.48      0.62       142
+           1       0.33      0.82      0.47        45
+
+    accuracy                           0.56       187
+   macro avg       0.61      0.65      0.55       187
+weighted avg       0.76      0.56      0.59       187
+
+G-mean: 0.6274872262383767
+Time for training model CNB- default, EWD, k = 7 is: 0.006474971771240234.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.54      0.67       142
+           1       0.36      0.82      0.50        45
+
+    accuracy                           0.60       187
+   macro avg       0.63      0.68      0.59       187
+weighted avg       0.77      0.60      0.63       187
+
+G-mean: 0.6633721412669337
+Time for training model KNN-Hamming- default, EWD, k = 7 is: 0.017609119415283203.
+========================================
+Models results: model ID3, dataset tranfusion, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.88      0.56      0.69       142
+           1       0.35      0.76      0.48        45
+
+    accuracy                           0.61       187
+   macro avg       0.62      0.66      0.58       187
+weighted avg       0.75      0.61      0.64       187
+
+G-mean: 0.6524301508371909
+Time for training model ID3- default, EWD, k = 10 is: 0.04078793525695801.
+========================================
+Models results: model CNB, dataset tranfusion, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.89      0.50      0.64       142
+           1       0.34      0.80      0.47        45
+
+    accuracy                           0.57       187
+   macro avg       0.61      0.65      0.56       187
+weighted avg       0.75      0.57      0.60       187
+
+G-mean: 0.6324555320336759
+Time for training model CNB- default, EWD, k = 10 is: 0.0072901248931884766.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.46      0.61       142
+           1       0.33      0.84      0.47        45
+
+    accuracy                           0.55       187
+   macro avg       0.62      0.65      0.54       187
+weighted avg       0.77      0.55      0.58       187
+
+G-mean: 0.6217245942123516
+Time for training model KNN-Hamming- default, EWD, k = 10 is: 0.014760017395019531.
+========================================
+Models results: model ID3, dataset tranfusion, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.72      0.80       145
+           1       0.43      0.74      0.54        42
+
+    accuracy                           0.72       187
+   macro avg       0.67      0.73      0.67       187
+weighted avg       0.80      0.72      0.74       187
+
+G-mean: 0.7275935999126338
+Time for training model ID3- default, EFD, k = 4 is: 0.04245281219482422.
+========================================
+Models results: model CNB, dataset tranfusion, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.89      0.67      0.76       145
+           1       0.38      0.71      0.50        42
+
+    accuracy                           0.68       187
+   macro avg       0.64      0.69      0.63       187
+weighted avg       0.78      0.68      0.70       187
+
+G-mean: 0.6912543036504517
+Time for training model CNB- default, EFD, k = 4 is: 0.006233930587768555.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.45      0.60       145
+           1       0.30      0.83      0.45        42
+
+    accuracy                           0.53       187
+   macro avg       0.60      0.64      0.52       187
+weighted avg       0.77      0.53      0.56       187
+
+G-mean: 0.6111981825813986
+Time for training model KNN-Hamming- default, EFD, k = 4 is: 0.009912967681884766.
+========================================
+Models results: model ID3, dataset tranfusion, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.89      0.70      0.79       145
+           1       0.41      0.71      0.52        42
+
+    accuracy                           0.71       187
+   macro avg       0.65      0.71      0.65       187
+weighted avg       0.79      0.71      0.73       187
+
+G-mean: 0.7088462838917844
+Time for training model ID3- default, EFD, k = 7 is: 0.0396883487701416.
+========================================
+Models results: model CNB, dataset tranfusion, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.91      0.59      0.71       145
+           1       0.36      0.81      0.50        42
+
+    accuracy                           0.64       187
+   macro avg       0.64      0.70      0.61       187
+weighted avg       0.79      0.64      0.67       187
+
+G-mean: 0.6888747637021416
+Time for training model CNB- default, EFD, k = 7 is: 0.007611989974975586.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.53      0.67       145
+           1       0.34      0.83      0.48        42
+
+    accuracy                           0.60       187
+   macro avg       0.63      0.68      0.58       187
+weighted avg       0.79      0.60      0.63       187
+
+G-mean: 0.6652283334556518
+Time for training model KNN-Hamming- default, EFD, k = 7 is: 0.012130975723266602.
+========================================
+Models results: model ID3, dataset tranfusion, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.89      0.72      0.79       145
+           1       0.41      0.69      0.52        42
+
+    accuracy                           0.71       187
+   macro avg       0.65      0.70      0.66       187
+weighted avg       0.78      0.71      0.73       187
+
+G-mean: 0.7037315505489968
+Time for training model ID3- default, EFD, k = 10 is: 0.0614471435546875.
+========================================
+Models results: model CNB, dataset tranfusion, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.88      0.68      0.77       145
+           1       0.39      0.69      0.50        42
+
+    accuracy                           0.68       187
+   macro avg       0.64      0.69      0.63       187
+weighted avg       0.77      0.68      0.71       187
+
+G-mean: 0.6866065623255952
+Time for training model CNB- default, EFD, k = 10 is: 0.008136987686157227.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.91      0.48      0.62       145
+           1       0.32      0.83      0.46        42
+
+    accuracy                           0.56       187
+   macro avg       0.61      0.65      0.54       187
+weighted avg       0.77      0.56      0.59       187
+
+G-mean: 0.6297235299224025
+Time for training model KNN-Hamming- default, EFD, k = 10 is: 0.011804819107055664.
+========================================
+Models results: model ID3, dataset tranfusion, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.56      0.69       142
+           1       0.36      0.80      0.50        45
+
+    accuracy                           0.61       187
+   macro avg       0.63      0.68      0.59       187
+weighted avg       0.77      0.61      0.64       187
+
+G-mean: 0.6671359850399402
+Time for training model ID3- default, FFD, m = 10 is: 0.08256268501281738.
+========================================
+Models results: model CNB, dataset tranfusion, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.85      0.58      0.69       142
+           1       0.34      0.67      0.45        45
+
+    accuracy                           0.60       187
+   macro avg       0.59      0.63      0.57       187
+weighted avg       0.72      0.60      0.63       187
+
+G-mean: 0.6242366230063303
+Time for training model CNB- default, FFD, m = 10 is: 0.009047985076904297.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.88      0.48      0.62       142
+           1       0.33      0.80      0.46        45
+
+    accuracy                           0.56       187
+   macro avg       0.61      0.64      0.54       187
+weighted avg       0.75      0.56      0.58       187
+
+G-mean: 0.6189495872438205
+Time for training model KNN-Hamming- default, FFD, m = 10 is: 0.012775897979736328.
+========================================
+Models results: model ID3, dataset tranfusion, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.63      0.73       142
+           1       0.38      0.71      0.50        45
+
+    accuracy                           0.65       187
+   macro avg       0.63      0.67      0.62       187
+weighted avg       0.76      0.65      0.68       187
+
+G-mean: 0.6713450866373513
+Time for training model ID3- default, FFD, m = 30 is: 0.0781240463256836.
+========================================
+Models results: model CNB, dataset tranfusion, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.85      0.58      0.69       142
+           1       0.34      0.67      0.45        45
+
+    accuracy                           0.60       187
+   macro avg       0.59      0.63      0.57       187
+weighted avg       0.72      0.60      0.63       187
+
+G-mean: 0.6242366230063303
+Time for training model CNB- default, FFD, m = 30 is: 0.005827903747558594.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.83      0.46      0.59       142
+           1       0.29      0.71      0.42        45
+
+    accuracy                           0.52       187
+   macro avg       0.56      0.58      0.50       187
+weighted avg       0.70      0.52      0.55       187
+
+G-mean: 0.5705336161864155
+Time for training model KNN-Hamming- default, FFD, m = 30 is: 0.011146068572998047.
+========================================
+Models results: model ID3, dataset tranfusion, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.91      0.54      0.68       142
+           1       0.36      0.82      0.50        45
+
+    accuracy                           0.61       187
+   macro avg       0.63      0.68      0.59       187
+weighted avg       0.78      0.61      0.64       187
+
+G-mean: 0.667722169130747
+Time for training model ID3- default, FFD, m = 60 is: 0.06700420379638672.
+========================================
+Models results: model CNB, dataset tranfusion, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.85      0.53      0.65       142
+           1       0.32      0.71      0.44        45
+
+    accuracy                           0.57       187
+   macro avg       0.59      0.62      0.55       187
+weighted avg       0.72      0.57      0.60       187
+
+G-mean: 0.6128514130358955
+Time for training model CNB- default, FFD, m = 60 is: 0.00836801528930664.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.85      0.51      0.63       142
+           1       0.31      0.71      0.44        45
+
+    accuracy                           0.56       187
+   macro avg       0.58      0.61      0.53       187
+weighted avg       0.72      0.56      0.59       187
+
+G-mean: 0.6004693000326412
+Time for training model KNN-Hamming- default, FFD, m = 60 is: 0.010799884796142578.
+========================================
+Models results: model ID3, dataset tranfusion, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.56      0.70       142
+           1       0.39      0.87      0.53        45
+
+    accuracy                           0.64       187
+   macro avg       0.66      0.72      0.62       187
+weighted avg       0.80      0.64      0.66       187
+
+G-mean: 0.6987581203808096
+Time for training model ID3- default, FFD, m = 100 is: 0.03531289100646973.
+========================================
+Models results: model CNB, dataset tranfusion, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.89      0.65      0.75       142
+           1       0.40      0.76      0.53        45
+
+    accuracy                           0.67       187
+   macro avg       0.65      0.70      0.64       187
+weighted avg       0.78      0.67      0.70       187
+
+G-mean: 0.6996533906011289
+Time for training model CNB- default, FFD, m = 100 is: 0.008213043212890625.
+========================================
+Models results: model KNN-Hamming, dataset tranfusion, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.85      0.61      0.71       142
+           1       0.35      0.67      0.46        45
+
+    accuracy                           0.62       187
+   macro avg       0.60      0.64      0.58       187
+weighted avg       0.73      0.62      0.65       187
+
+G-mean: 0.6354178692361436
+Time for training model KNN-Hamming- default, FFD, m = 100 is: 0.011681795120239258.
+========================================
