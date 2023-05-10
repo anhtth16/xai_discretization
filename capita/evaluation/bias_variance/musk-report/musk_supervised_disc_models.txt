@@ -1,0 +1,336 @@
+Models results: model ID3, dataset musk, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1396
+           1       0.86      0.84      0.85       254
+
+    accuracy                           0.95      1650
+   macro avg       0.91      0.91      0.91      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.9038569222617053
+Time for training model ID3- default, CM, k = 6 is: 7.674991130828857.
+========================================
+Models results: model CNB, dataset musk, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.94      1396
+           1       0.63      0.71      0.67       254
+
+    accuracy                           0.89      1650
+   macro avg       0.79      0.82      0.80      1650
+weighted avg       0.90      0.89      0.89      1650
+
+G-mean: 0.8095427844704035
+Time for training model CNB- default, CM, k = 6 is: 0.06711196899414062.
+========================================
+Models results: model KNN-Hamming, dataset musk, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1396
+           1       0.85      0.81      0.83       254
+
+    accuracy                           0.95      1650
+   macro avg       0.91      0.89      0.90      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.8870465797191945
+Time for training model KNN-Hamming- default, CM, k = 6 is: 4.01148796081543.
+========================================
+Models results: model ID3, dataset musk, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.97      1396
+           1       0.87      0.86      0.86       254
+
+    accuracy                           0.96      1650
+   macro avg       0.92      0.92      0.92      1650
+weighted avg       0.96      0.96      0.96      1650
+
+G-mean: 0.9150761433242218
+Time for training model ID3- default, CM, k = 8 is: 8.00461196899414.
+========================================
+Models results: model CNB, dataset musk, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94      1396
+           1       0.66      0.73      0.69       254
+
+    accuracy                           0.90      1650
+   macro avg       0.80      0.83      0.82      1650
+weighted avg       0.90      0.90      0.90      1650
+
+G-mean: 0.8235651730989711
+Time for training model CNB- default, CM, k = 8 is: 0.08223509788513184.
+========================================
+Models results: model KNN-Hamming, dataset musk, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97      1396
+           1       0.87      0.79      0.83       254
+
+    accuracy                           0.95      1650
+   macro avg       0.92      0.89      0.90      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.8802838182420487
+Time for training model KNN-Hamming- default, CM, k = 8 is: 3.7522618770599365.
+========================================
+Models results: model ID3, dataset musk, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1396
+           1       0.86      0.83      0.84       254
+
+    accuracy                           0.95      1650
+   macro avg       0.91      0.90      0.91      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.897799052056885
+Time for training model ID3- default, cm, k = 10 is: 9.126205921173096.
+========================================
+Models results: model CNB, dataset musk, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94      1396
+           1       0.65      0.73      0.69       254
+
+    accuracy                           0.90      1650
+   macro avg       0.80      0.83      0.82      1650
+weighted avg       0.90      0.90      0.90      1650
+
+G-mean: 0.8251525590505348
+Time for training model CNB- default, cm, k = 10 is: 0.05818915367126465.
+========================================
+Models results: model KNN-Hamming, dataset musk, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97      1396
+           1       0.86      0.79      0.83       254
+
+    accuracy                           0.95      1650
+   macro avg       0.91      0.88      0.90      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.8793173581319049
+Time for training model KNN-Hamming- default, cm, k = 10 is: 3.362046003341675.
+========================================
+Models results: model ID3, dataset musk, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1396
+           1       0.85      0.85      0.85       254
+
+    accuracy                           0.96      1650
+   macro avg       0.91      0.91      0.91      1650
+weighted avg       0.96      0.96      0.96      1650
+
+G-mean: 0.9119688991261707
+Time for training model ID3- default, cm, k = 15 is: 11.688304901123047.
+========================================
+Models results: model CNB, dataset musk, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94      1396
+           1       0.66      0.74      0.70       254
+
+    accuracy                           0.90      1650
+   macro avg       0.81      0.84      0.82      1650
+weighted avg       0.91      0.90      0.90      1650
+
+G-mean: 0.82989649945398
+Time for training model CNB- default, cm, k = 15 is: 0.06234002113342285.
+========================================
+Models results: model KNN-Hamming, dataset musk, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97      1396
+           1       0.87      0.78      0.83       254
+
+    accuracy                           0.95      1650
+   macro avg       0.92      0.88      0.90      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.8758933478861171
+Time for training model KNN-Hamming- default, cm, k = 15 is: 3.660865068435669.
+========================================
+Models results: model ID3, dataset musk, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      1396
+           1       1.00      1.00      1.00       254
+
+    accuracy                           1.00      1650
+   macro avg       1.00      1.00      1.00      1650
+weighted avg       1.00      1.00      1.00      1650
+
+G-mean: 1.0
+Time for training model ID3- default, DT, max_depth = 2 is: 0.7663259506225586.
+========================================
+Models results: model CNB, dataset musk, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.96      0.87      0.91      1396
+           1       0.53      0.81      0.64       254
+
+    accuracy                           0.86      1650
+   macro avg       0.75      0.84      0.78      1650
+weighted avg       0.90      0.86      0.87      1650
+
+G-mean: 0.8411567129033075
+Time for training model CNB- default, DT, max_depth = 2 is: 0.06820917129516602.
+========================================
+Models results: model KNN-Hamming, dataset musk, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1396
+           1       0.82      0.86      0.84       254
+
+    accuracy                           0.95      1650
+   macro avg       0.90      0.91      0.91      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.9127849373505877
+Time for training model KNN-Hamming- default, DT, max_depth = 2 is: 3.6543381214141846.
+========================================
+Models results: model ID3, dataset musk, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      1396
+           1       1.00      1.00      1.00       254
+
+    accuracy                           1.00      1650
+   macro avg       1.00      1.00      1.00      1650
+weighted avg       1.00      1.00      1.00      1650
+
+G-mean: 1.0
+Time for training model ID3- default, DT, max_depth = 3 is: 0.857468843460083.
+========================================
+Models results: model CNB, dataset musk, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.94      0.95      1396
+           1       0.72      0.81      0.77       254
+
+    accuracy                           0.92      1650
+   macro avg       0.84      0.88      0.86      1650
+weighted avg       0.93      0.92      0.92      1650
+
+G-mean: 0.8765032886567276
+Time for training model CNB- default, DT, max_depth = 3 is: 0.05707287788391113.
+========================================
+Models results: model KNN-Hamming, dataset musk, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1396
+           1       0.84      0.85      0.84       254
+
+    accuracy                           0.95      1650
+   macro avg       0.91      0.91      0.91      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.9067540567747531
+Time for training model KNN-Hamming- default, DT, max_depth = 3 is: 3.821499824523926.
+========================================
+Models results: model ID3, dataset musk, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      1396
+           1       1.00      1.00      1.00       254
+
+    accuracy                           1.00      1650
+   macro avg       1.00      1.00      1.00      1650
+weighted avg       1.00      1.00      1.00      1650
+
+G-mean: 1.0
+Time for training model ID3- default, DT, max_depth = 4 is: 0.9527978897094727.
+========================================
+Models results: model CNB, dataset musk, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.96      0.97      1396
+           1       0.79      0.85      0.82       254
+
+    accuracy                           0.94      1650
+   macro avg       0.88      0.91      0.89      1650
+weighted avg       0.94      0.94      0.94      1650
+
+G-mean: 0.904557133911537
+Time for training model CNB- default, DT, max_depth = 4 is: 0.06218218803405762.
+========================================
+Models results: model KNN-Hamming, dataset musk, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1396
+           1       0.85      0.85      0.85       254
+
+    accuracy                           0.95      1650
+   macro avg       0.91      0.91      0.91      1650
+weighted avg       0.95      0.95      0.95      1650
+
+G-mean: 0.9070883439959804
+Time for training model KNN-Hamming- default, DT, max_depth = 4 is: 3.6400721073150635.
+========================================
+Models results: model ID3, dataset musk, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      1396
+           1       1.00      1.00      1.00       254
+
+    accuracy                           1.00      1650
+   macro avg       1.00      1.00      1.00      1650
+weighted avg       1.00      1.00      1.00      1650
+
+G-mean: 1.0
+Time for training model ID3- default, DT, max_depth = 5 is: 0.9615838527679443.
+========================================
+Models results: model CNB, dataset musk, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.97      1396
+           1       0.83      0.88      0.85       254
+
+    accuracy                           0.95      1650
+   macro avg       0.90      0.92      0.91      1650
+weighted avg       0.96      0.95      0.95      1650
+
+G-mean: 0.9217656896159983
+Time for training model CNB- default, DT, max_depth = 5 is: 0.08707666397094727.
+========================================
+Models results: model KNN-Hamming, dataset musk, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97      1396
+           1       0.85      0.85      0.85       254
+
+    accuracy                           0.96      1650
+   macro avg       0.91      0.91      0.91      1650
+weighted avg       0.96      0.96      0.96      1650
+
+G-mean: 0.9119688991261707
+Time for training model KNN-Hamming- default, DT, max_depth = 5 is: 3.7048611640930176.
+========================================
