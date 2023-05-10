@@ -1,6 +1,6 @@
 # Phase 2: Capita Selecta Project
 
-This folder includes scripts and experiment results of phase 2: Capita Project
+This folder includes scripts and experiment results of phase 2: Capita Project.
 For full experiment pipeline, please refer to the navigation pipeline at the landing page.
 
 Scope:
