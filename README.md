@@ -8,6 +8,7 @@ Both phases follow the same pipeline:
 
 **STEP 1: Discretization data:**
 Clean input data is discretized using different methods. The output will be used to train models (STEP 2)
+
 * Unsupervised discrezers: Equal Width Discretizer (EWD), Equal Frequency Discretizer (EFD), Fixed Frequency Discretizer (FFD)
 * Supervised discretizers:
 - ChiMerge
