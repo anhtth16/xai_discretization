@@ -1,7 +1,7 @@
 # Phase 2: Capita Selecta Project
 
 This folder includes scripts and experiment results of phase 2: Capita Project.
-For full experiment pipeline, please refer to the navigation pipeline at the landing page.
+For full experiment pipeline, please refer to the [navigation guideline](https://github.com/anhtth16/xai_discretization-capita/blob/main/README.md) at the landing page.
 
 Scope:
 - Full experiment pipleline is performed on five datasets: adult, mustk, pageblock, phoneme, tranfusion
