@@ -1,0 +1,56 @@
+Evaluation result: Knn-Hamming, CM, k = 6
+Average expected loss: 0.230
+Average bias: 0.212
+Average variance: 0.099
+Sklearn 0-1 loss: 0.196
+Execution time Knn-Hamming- default, CM, k = 6 is: 18.131000995635986.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 8
+Average expected loss: 0.188
+Average bias: 0.167
+Average variance: 0.083
+Sklearn 0-1 loss: 0.178
+Execution time Knn-Hamming- default, CM, k = 8 is: 24.3938570022583.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 10
+Average expected loss: 0.183
+Average bias: 0.164
+Average variance: 0.084
+Sklearn 0-1 loss: 0.163
+Execution time Knn-Hamming- default, cm, k = 10 is: 25.31951379776001.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 15
+Average expected loss: 0.183
+Average bias: 0.164
+Average variance: 0.089
+Sklearn 0-1 loss: 0.158
+Execution time Knn-Hamming- default, cm, k = 15 is: 25.61037302017212.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 2
+Average expected loss: 0.233
+Average bias: 0.199
+Average variance: 0.112
+Sklearn 0-1 loss: 0.206
+Execution time Knn-Hamming- default, DT, max_depth = 2 is: 16.204946994781494.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 3
+Average expected loss: 0.209
+Average bias: 0.187
+Average variance: 0.098
+Sklearn 0-1 loss: 0.192
+Execution time Knn-Hamming- default, DT, max_depth = 3 is: 20.914313793182373.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 4
+Average expected loss: 0.388
+Average bias: 0.385
+Average variance: 0.095
+Sklearn 0-1 loss: 0.154
+Execution time Knn-Hamming- default, DT, max_depth = 4 is: 25.034042835235596.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 5
+Average expected loss: 0.184
+Average bias: 0.162
+Average variance: 0.086
+Sklearn 0-1 loss: 0.170
+Execution time Knn-Hamming- default, DT, max_depth = 5 is: 25.367628812789917.
+========================================

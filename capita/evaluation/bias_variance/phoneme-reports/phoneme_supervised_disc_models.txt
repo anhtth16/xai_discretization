@@ -1,0 +1,336 @@
+Models results: model ID3, dataset phoneme, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.70      0.80       954
+           1       0.55      0.88      0.68       397
+
+    accuracy                           0.75      1351
+   macro avg       0.74      0.79      0.74      1351
+weighted avg       0.82      0.75      0.76      1351
+
+G-mean: 0.7840310097852816
+Time for training model ID3- default, CM, k = 6 is: 0.07786083221435547.
+========================================
+Models results: model CNB, dataset phoneme, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.69      0.78       954
+           1       0.52      0.81      0.63       397
+
+    accuracy                           0.72      1351
+   macro avg       0.71      0.75      0.70      1351
+weighted avg       0.79      0.72      0.73      1351
+
+G-mean: 0.7456711992847588
+Time for training model CNB- default, CM, k = 6 is: 0.01014089584350586.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization CM with parameter k = 6
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.86      0.86      0.86       954
+           1       0.67      0.66      0.66       397
+
+    accuracy                           0.80      1351
+   macro avg       0.76      0.76      0.76      1351
+weighted avg       0.80      0.80      0.80      1351
+
+G-mean: 0.7559765969929292
+Time for training model KNN-Hamming- default, CM, k = 6 is: 0.10341382026672363.
+========================================
+Models results: model ID3, dataset phoneme, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.86      0.78      0.82       954
+           1       0.56      0.68      0.62       397
+
+    accuracy                           0.75      1351
+   macro avg       0.71      0.73      0.72      1351
+weighted avg       0.77      0.75      0.76      1351
+
+G-mean: 0.7291377967221943
+Time for training model ID3- default, CM, k = 8 is: 0.08172178268432617.
+========================================
+Models results: model CNB, dataset phoneme, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.69      0.78       954
+           1       0.52      0.81      0.64       397
+
+    accuracy                           0.73      1351
+   macro avg       0.71      0.75      0.71      1351
+weighted avg       0.79      0.73      0.74      1351
+
+G-mean: 0.7485161970252564
+Time for training model CNB- default, CM, k = 8 is: 0.009585857391357422.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization CM with parameter k = 8
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.89      0.85      0.87       954
+           1       0.68      0.75      0.71       397
+
+    accuracy                           0.82      1351
+   macro avg       0.79      0.80      0.79      1351
+weighted avg       0.83      0.82      0.82      1351
+
+G-mean: 0.7998047224556668
+Time for training model KNN-Hamming- default, CM, k = 8 is: 0.13807296752929688.
+========================================
+Models results: model ID3, dataset phoneme, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.77      0.82       954
+           1       0.56      0.71      0.63       397
+
+    accuracy                           0.75      1351
+   macro avg       0.72      0.74      0.72      1351
+weighted avg       0.78      0.75      0.76      1351
+
+G-mean: 0.7415879838404277
+Time for training model ID3- default, cm, k = 10 is: 0.08795595169067383.
+========================================
+Models results: model CNB, dataset phoneme, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.70      0.79       954
+           1       0.53      0.82      0.64       397
+
+    accuracy                           0.73      1351
+   macro avg       0.71      0.76      0.71      1351
+weighted avg       0.79      0.73      0.74      1351
+
+G-mean: 0.7542475133167612
+Time for training model CNB- default, cm, k = 10 is: 0.009248018264770508.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization CM with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.87      0.88       954
+           1       0.71      0.76      0.73       397
+
+    accuracy                           0.84      1351
+   macro avg       0.80      0.81      0.81      1351
+weighted avg       0.84      0.84      0.84      1351
+
+G-mean: 0.8121810519458643
+Time for training model KNN-Hamming- default, cm, k = 10 is: 0.13106632232666016.
+========================================
+Models results: model ID3, dataset phoneme, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.78      0.82       954
+           1       0.58      0.71      0.64       397
+
+    accuracy                           0.76      1351
+   macro avg       0.72      0.75      0.73      1351
+weighted avg       0.78      0.76      0.77      1351
+
+G-mean: 0.7461083723695728
+Time for training model ID3- default, cm, k = 15 is: 0.08047986030578613.
+========================================
+Models results: model CNB, dataset phoneme, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.90      0.70      0.79       954
+           1       0.53      0.82      0.65       397
+
+    accuracy                           0.73      1351
+   macro avg       0.72      0.76      0.72      1351
+weighted avg       0.79      0.73      0.75      1351
+
+G-mean: 0.7577313540880292
+Time for training model CNB- default, cm, k = 15 is: 0.009276151657104492.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization CM with parameter k = 15
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.85      0.88       954
+           1       0.70      0.81      0.75       397
+
+    accuracy                           0.84      1351
+   macro avg       0.81      0.83      0.82      1351
+weighted avg       0.85      0.84      0.85      1351
+
+G-mean: 0.8337015804712576
+Time for training model KNN-Hamming- default, cm, k = 15 is: 0.13798284530639648.
+========================================
+Models results: model ID3, dataset phoneme, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.64      0.77       954
+           1       0.52      0.91      0.66       397
+
+    accuracy                           0.72      1351
+   macro avg       0.73      0.78      0.71      1351
+weighted avg       0.82      0.72      0.73      1351
+
+G-mean: 0.7656348936623507
+Time for training model ID3- default, DT, max_depth = 2 is: 0.06506896018981934.
+========================================
+Models results: model CNB, dataset phoneme, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.91      0.72      0.81       954
+           1       0.55      0.82      0.66       397
+
+    accuracy                           0.75      1351
+   macro avg       0.73      0.77      0.73      1351
+weighted avg       0.80      0.75      0.76      1351
+
+G-mean: 0.7718430198298817
+Time for training model CNB- default, DT, max_depth = 2 is: 0.01024484634399414.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization DT with parameter max_depth = 2
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.83      0.89      0.86       954
+           1       0.68      0.56      0.62       397
+
+    accuracy                           0.79      1351
+   macro avg       0.76      0.73      0.74      1351
+weighted avg       0.79      0.79      0.79      1351
+
+G-mean: 0.7074446288793618
+Time for training model KNN-Hamming- default, DT, max_depth = 2 is: 0.08385992050170898.
+========================================
+Models results: model ID3, dataset phoneme, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.95      0.71      0.81       954
+           1       0.57      0.90      0.70       397
+
+    accuracy                           0.77      1351
+   macro avg       0.76      0.81      0.75      1351
+weighted avg       0.84      0.77      0.78      1351
+
+G-mean: 0.8022554400339129
+Time for training model ID3- default, DT, max_depth = 3 is: 0.059908151626586914.
+========================================
+Models results: model CNB, dataset phoneme, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.69      0.79       954
+           1       0.54      0.88      0.67       397
+
+    accuracy                           0.74      1351
+   macro avg       0.74      0.78      0.73      1351
+weighted avg       0.82      0.74      0.76      1351
+
+G-mean: 0.7775585980375543
+Time for training model CNB- default, DT, max_depth = 3 is: 0.009212255477905273.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization DT with parameter max_depth = 3
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.85      0.89      0.87       954
+           1       0.69      0.62      0.65       397
+
+    accuracy                           0.81      1351
+   macro avg       0.77      0.75      0.76      1351
+weighted avg       0.80      0.81      0.80      1351
+
+G-mean: 0.7408434871454695
+Time for training model KNN-Hamming- default, DT, max_depth = 3 is: 0.10920214653015137.
+========================================
+Models results: model ID3, dataset phoneme, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.72      0.82       954
+           1       0.57      0.89      0.70       397
+
+    accuracy                           0.77      1351
+   macro avg       0.76      0.81      0.76      1351
+weighted avg       0.83      0.77      0.78      1351
+
+G-mean: 0.8030432850122078
+Time for training model ID3- default, DT, max_depth = 4 is: 0.07306694984436035.
+========================================
+Models results: model CNB, dataset phoneme, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.69      0.79       954
+           1       0.54      0.85      0.66       397
+
+    accuracy                           0.74      1351
+   macro avg       0.73      0.77      0.73      1351
+weighted avg       0.81      0.74      0.75      1351
+
+G-mean: 0.7703483781605653
+Time for training model CNB- default, DT, max_depth = 4 is: 0.010396003723144531.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization DT with parameter max_depth = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89       954
+           1       0.73      0.75      0.74       397
+
+    accuracy                           0.85      1351
+   macro avg       0.81      0.82      0.82      1351
+weighted avg       0.85      0.85      0.85      1351
+
+G-mean: 0.8145053953283907
+Time for training model KNN-Hamming- default, DT, max_depth = 4 is: 0.1370229721069336.
+========================================
+Models results: model ID3, dataset phoneme, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.95      0.67      0.79       954
+           1       0.54      0.92      0.68       397
+
+    accuracy                           0.74      1351
+   macro avg       0.75      0.80      0.73      1351
+weighted avg       0.83      0.74      0.75      1351
+
+G-mean: 0.7852020799073907
+Time for training model ID3- default, DT, max_depth = 5 is: 0.07140302658081055.
+========================================
+Models results: model CNB, dataset phoneme, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.68      0.78       954
+           1       0.53      0.87      0.66       397
+
+    accuracy                           0.74      1351
+   macro avg       0.73      0.78      0.72      1351
+weighted avg       0.81      0.74      0.75      1351
+
+G-mean: 0.7705180193577764
+Time for training model CNB- default, DT, max_depth = 5 is: 0.008806943893432617.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization DT with parameter max_depth = 5
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.88      0.88      0.88       954
+           1       0.71      0.72      0.71       397
+
+    accuracy                           0.83      1351
+   macro avg       0.80      0.80      0.80      1351
+weighted avg       0.83      0.83      0.83      1351
+
+G-mean: 0.7936256910912108
+Time for training model KNN-Hamming- default, DT, max_depth = 5 is: 0.14821290969848633.
+========================================
