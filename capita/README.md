@@ -13,4 +13,4 @@ Changes compared to phase 1:
 
 Warning: 
 - Bias-Variance decomposition takes very long time for calculation. For some datasets, we cannot run this evaluation for all models in one script, so it is advised to break down the whole scripts into smaller tasks.
-- Scrun scripts are Python scripts used to run in the HPC computing cluster.
+- Srun scripts are Python scripts used to run in the HPC computing cluster.
