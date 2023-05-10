@@ -1,0 +1,420 @@
+Models results: model ID3, dataset adult, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.73      0.81      9289
+           1       0.48      0.81      0.60      2922
+
+    accuracy                           0.75     12211
+   macro avg       0.70      0.77      0.71     12211
+weighted avg       0.82      0.75      0.76     12211
+
+G-mean: 0.7647891736238556
+Time for training model ID3- default, EWD, k = 4 is: 2.427666187286377.
+========================================
+Models results: model CNB, dataset adult, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.76      0.84      9289
+           1       0.52      0.84      0.64      2922
+
+    accuracy                           0.78     12211
+   macro avg       0.73      0.80      0.74     12211
+weighted avg       0.84      0.78      0.79     12211
+
+G-mean: 0.7959912135326408
+Time for training model CNB- default, EWD, k = 4 is: 0.05978965759277344.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.88      0.88      9289
+           1       0.60      0.60      0.60      2922
+
+    accuracy                           0.81     12211
+   macro avg       0.74      0.74      0.74     12211
+weighted avg       0.81      0.81      0.81     12211
+
+G-mean: 0.7225960466964728
+Time for training model KNN-Hamming- default, EWD, k = 4 is: 14.937346696853638.
+========================================
+Models results: model ID3, dataset adult, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.75      0.83      9289
+           1       0.50      0.79      0.61      2922
+
+    accuracy                           0.76     12211
+   macro avg       0.71      0.77      0.72     12211
+weighted avg       0.82      0.76      0.78     12211
+
+G-mean: 0.770293528556429
+Time for training model ID3- default, EWD, k = 7 is: 2.58986234664917.
+========================================
+Models results: model CNB, dataset adult, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.76      0.84      9289
+           1       0.53      0.85      0.65      2922
+
+    accuracy                           0.78     12211
+   macro avg       0.73      0.80      0.75     12211
+weighted avg       0.84      0.78      0.80     12211
+
+G-mean: 0.8028721371054438
+Time for training model CNB- default, EWD, k = 7 is: 0.06667685508728027.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.87      0.87      9289
+           1       0.59      0.59      0.59      2922
+
+    accuracy                           0.80     12211
+   macro avg       0.73      0.73      0.73     12211
+weighted avg       0.80      0.80      0.80     12211
+
+G-mean: 0.7155145017436576
+Time for training model KNN-Hamming- default, EWD, k = 7 is: 20.723937034606934.
+========================================
+Models results: model ID3, dataset adult, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.75      0.83      9289
+           1       0.51      0.81      0.63      2922
+
+    accuracy                           0.77     12211
+   macro avg       0.72      0.78      0.73     12211
+weighted avg       0.83      0.77      0.78     12211
+
+G-mean: 0.7820792292085401
+Time for training model ID3- default, EWD, k = 10 is: 2.7399721145629883.
+========================================
+Models results: model CNB, dataset adult, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.76      0.84      9289
+           1       0.53      0.85      0.66      2922
+
+    accuracy                           0.79     12211
+   macro avg       0.74      0.81      0.75     12211
+weighted avg       0.85      0.79      0.80     12211
+
+G-mean: 0.8081338011486129
+Time for training model CNB- default, EWD, k = 10 is: 0.05936098098754883.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.87      0.87      9289
+           1       0.59      0.60      0.59      2922
+
+    accuracy                           0.80     12211
+   macro avg       0.73      0.73      0.73     12211
+weighted avg       0.81      0.80      0.81     12211
+
+G-mean: 0.7215934663455197
+Time for training model KNN-Hamming- default, EWD, k = 10 is: 19.292455196380615.
+========================================
+Models results: model ID3, dataset adult, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.72      0.81      9289
+           1       0.48      0.81      0.60      2922
+
+    accuracy                           0.74     12211
+   macro avg       0.70      0.76      0.70     12211
+weighted avg       0.82      0.74      0.76     12211
+
+G-mean: 0.7635674788386886
+Time for training model ID3- default, EFD, k = 4 is: 2.4410648345947266.
+========================================
+Models results: model CNB, dataset adult, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.75      0.84      9289
+           1       0.52      0.84      0.64      2922
+
+    accuracy                           0.77     12211
+   macro avg       0.73      0.80      0.74     12211
+weighted avg       0.84      0.77      0.79     12211
+
+G-mean: 0.7940378706539832
+Time for training model CNB- default, EFD, k = 4 is: 0.08427786827087402.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.86      0.87      9289
+           1       0.57      0.59      0.58      2922
+
+    accuracy                           0.80     12211
+   macro avg       0.72      0.73      0.72     12211
+weighted avg       0.80      0.80      0.80     12211
+
+G-mean: 0.7144348193370034
+Time for training model KNN-Hamming- default, EFD, k = 4 is: 18.981215000152588.
+========================================
+Models results: model ID3, dataset adult, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.91      0.76      0.83      9289
+           1       0.50      0.77      0.61      2922
+
+    accuracy                           0.76     12211
+   macro avg       0.71      0.76      0.72     12211
+weighted avg       0.81      0.76      0.78     12211
+
+G-mean: 0.7648653082076385
+Time for training model ID3- default, EFD, k = 7 is: 2.452045202255249.
+========================================
+Models results: model CNB, dataset adult, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.75      0.84      9289
+           1       0.52      0.84      0.64      2922
+
+    accuracy                           0.77     12211
+   macro avg       0.73      0.79      0.74     12211
+weighted avg       0.84      0.77      0.79     12211
+
+G-mean: 0.7937127783698746
+Time for training model CNB- default, EFD, k = 7 is: 0.049056053161621094.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.88      0.85      0.86      9289
+           1       0.57      0.62      0.59      2922
+
+    accuracy                           0.80     12211
+   macro avg       0.72      0.74      0.73     12211
+weighted avg       0.80      0.80      0.80     12211
+
+G-mean: 0.7275396133291906
+Time for training model KNN-Hamming- default, EFD, k = 7 is: 18.211401224136353.
+========================================
+Models results: model ID3, dataset adult, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.91      0.76      0.83      9289
+           1       0.50      0.76      0.60      2922
+
+    accuracy                           0.76     12211
+   macro avg       0.71      0.76      0.72     12211
+weighted avg       0.81      0.76      0.77     12211
+
+G-mean: 0.7611562766735184
+Time for training model ID3- default, EFD, k = 10 is: 4.6257078647613525.
+========================================
+Models results: model CNB, dataset adult, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.94      0.76      0.84      9289
+           1       0.52      0.84      0.64      2922
+
+    accuracy                           0.78     12211
+   macro avg       0.73      0.80      0.74     12211
+weighted avg       0.84      0.78      0.79     12211
+
+G-mean: 0.7979509251878482
+Time for training model CNB- default, EFD, k = 10 is: 0.05375313758850098.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.85      0.86      9289
+           1       0.56      0.61      0.59      2922
+
+    accuracy                           0.79     12211
+   macro avg       0.72      0.73      0.72     12211
+weighted avg       0.80      0.79      0.80     12211
+
+G-mean: 0.721496425334962
+Time for training model KNN-Hamming- default, EFD, k = 10 is: 21.852519989013672.
+========================================
+Models results: model ID3, dataset adult, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.79      0.85      9289
+           1       0.54      0.77      0.63      2922
+
+    accuracy                           0.79     12211
+   macro avg       0.73      0.78      0.74     12211
+weighted avg       0.83      0.79      0.80     12211
+
+G-mean: 0.7807407181296242
+Time for training model ID3- default, FFD, m = 10 is: 23.017374277114868.
+========================================
+Models results: model CNB, dataset adult, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.82      0.87      9289
+           1       0.59      0.79      0.67      2922
+
+    accuracy                           0.82     12211
+   macro avg       0.76      0.81      0.77     12211
+weighted avg       0.84      0.82      0.82     12211
+
+G-mean: 0.8079490502174388
+Time for training model CNB- default, FFD, m = 10 is: 0.07158112525939941.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.89      0.88      9289
+           1       0.61      0.57      0.59      2922
+
+    accuracy                           0.81     12211
+   macro avg       0.74      0.73      0.73     12211
+weighted avg       0.81      0.81      0.81     12211
+
+G-mean: 0.7098071186865937
+Time for training model KNN-Hamming- default, FFD, m = 10 is: 28.629114866256714.
+========================================
+Models results: model ID3, dataset adult, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.91      0.79      0.85      9289
+           1       0.54      0.76      0.63      2922
+
+    accuracy                           0.79     12211
+   macro avg       0.73      0.78      0.74     12211
+weighted avg       0.82      0.79      0.80     12211
+
+G-mean: 0.7775177813763544
+Time for training model ID3- default, FFD, m = 30 is: 10.731189966201782.
+========================================
+Models results: model CNB, dataset adult, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.81      0.87      9289
+           1       0.58      0.80      0.67      2922
+
+    accuracy                           0.81     12211
+   macro avg       0.75      0.81      0.77     12211
+weighted avg       0.85      0.81      0.82     12211
+
+G-mean: 0.8095753637487053
+Time for training model CNB- default, FFD, m = 30 is: 0.07727169990539551.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.89      0.88      9289
+           1       0.62      0.58      0.60      2922
+
+    accuracy                           0.81     12211
+   macro avg       0.75      0.73      0.74     12211
+weighted avg       0.81      0.81      0.81     12211
+
+G-mean: 0.7181530110675726
+Time for training model KNN-Hamming- default, FFD, m = 30 is: 28.795886039733887.
+========================================
+Models results: model ID3, dataset adult, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.80      0.85      9289
+           1       0.54      0.77      0.64      2922
+
+    accuracy                           0.79     12211
+   macro avg       0.73      0.78      0.75     12211
+weighted avg       0.83      0.79      0.80     12211
+
+G-mean: 0.7833298102668843
+Time for training model ID3- default, FFD, m = 60 is: 9.24409794807434.
+========================================
+Models results: model CNB, dataset adult, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.81      0.87      9289
+           1       0.57      0.82      0.67      2922
+
+    accuracy                           0.81     12211
+   macro avg       0.75      0.81      0.77     12211
+weighted avg       0.85      0.81      0.82     12211
+
+G-mean: 0.8125676223960099
+Time for training model CNB- default, FFD, m = 60 is: 0.06671833992004395.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.88      0.87      9289
+           1       0.60      0.58      0.59      2922
+
+    accuracy                           0.81     12211
+   macro avg       0.74      0.73      0.73     12211
+weighted avg       0.81      0.81      0.81     12211
+
+G-mean: 0.7130329604631914
+Time for training model KNN-Hamming- default, FFD, m = 60 is: 28.177932024002075.
+========================================
+Models results: model ID3, dataset adult, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.92      0.80      0.85      9289
+           1       0.54      0.77      0.64      2922
+
+    accuracy                           0.79     12211
+   macro avg       0.73      0.78      0.75     12211
+weighted avg       0.83      0.79      0.80     12211
+
+G-mean: 0.784367337944697
+Time for training model ID3- default, FFD, m = 100 is: 6.829722881317139.
+========================================
+Models results: model CNB, dataset adult, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.93      0.80      0.86      9289
+           1       0.57      0.82      0.67      2922
+
+    accuracy                           0.81     12211
+   macro avg       0.75      0.81      0.77     12211
+weighted avg       0.85      0.81      0.82     12211
+
+G-mean: 0.8108949480809959
+Time for training model CNB- default, FFD, m = 100 is: 0.06238293647766113.
+========================================
+Models results: model KNN-Hamming, dataset adult, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           0       0.87      0.89      0.88      9289
+           1       0.61      0.57      0.59      2922
+
+    accuracy                           0.81     12211
+   macro avg       0.74      0.73      0.73     12211
+weighted avg       0.81      0.81      0.81     12211
+
+G-mean: 0.7119014642399356
+Time for training model KNN-Hamming- default, FFD, m = 100 is: 29.576526880264282.
+========================================

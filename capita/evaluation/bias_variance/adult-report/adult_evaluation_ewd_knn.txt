@@ -1,0 +1,21 @@
+Evaluation result: KNN-Hamming, EWD, k = 4
+Average expected loss: 0.245
+Average bias: 0.230
+Average variance: 0.109
+Sklearn 0-1 loss: 0.190
+Execution time KNN-Hamming- default, EWD, k = 4 is: 5956.985332250595.
+========================================
+Evaluation result: KNN-Hamming, EWD, k = 7
+Average expected loss: 0.239
+Average bias: 0.224
+Average variance: 0.100
+Sklearn 0-1 loss: 0.198
+Execution time KNN-Hamming- default, EWD, k = 7 is: 7499.85325884819.
+========================================
+Evaluation result: KNN-Hamming, EWD, k = 10
+Average expected loss: 0.237
+Average bias: 0.222
+Average variance: 0.101
+Sklearn 0-1 loss: 0.195
+Execution time KNN-Hamming- default, EWD, k = 10 is: 15885.762914419174.
+========================================
