@@ -1,0 +1,56 @@
+Evaluation result: CNB, CM, k = 6
+Average expected loss: 0.341
+Average bias: 0.337
+Average variance: 0.076
+Sklearn 0-1 loss: 0.337
+Execution time CNB- default, CM, k = 6 is: 0.3349170684814453.
+========================================
+Evaluation result: CNB, CM, k = 8
+Average expected loss: 0.351
+Average bias: 0.353
+Average variance: 0.033
+Sklearn 0-1 loss: 0.353
+Execution time CNB- default, CM, k = 8 is: 0.32645297050476074.
+========================================
+Evaluation result: CNB, CM, k = 10
+Average expected loss: 0.351
+Average bias: 0.353
+Average variance: 0.033
+Sklearn 0-1 loss: 0.353
+Execution time CNB- default, cm, k = 10 is: 0.3022310733795166.
+========================================
+Evaluation result: CNB, CM, k = 15
+Average expected loss: 0.351
+Average bias: 0.353
+Average variance: 0.033
+Sklearn 0-1 loss: 0.353
+Execution time CNB- default, cm, k = 15 is: 0.31654882431030273.
+========================================
+Evaluation result: CNB, DT, max_depth = 2
+Average expected loss: 0.334
+Average bias: 0.326
+Average variance: 0.056
+Sklearn 0-1 loss: 0.326
+Execution time CNB- default, DT, k = 15 is: 0.3218109607696533.
+========================================
+Evaluation result: CNB, DT, max_depth = 3
+Average expected loss: 0.298
+Average bias: 0.299
+Average variance: 0.056
+Sklearn 0-1 loss: 0.299
+Execution time CNB- default, DT, k = 15 is: 0.2914259433746338.
+========================================
+Evaluation result: CNB, DT, max_depth = 4
+Average expected loss: 0.398
+Average bias: 0.380
+Average variance: 0.091
+Sklearn 0-1 loss: 0.326
+Execution time CNB- default, DT, k = 15 is: 0.337874174118042.
+========================================
+Evaluation result: CNB, DT, max_depth = 5
+Average expected loss: 0.338
+Average bias: 0.321
+Average variance: 0.084
+Sklearn 0-1 loss: 0.332
+Execution time CNB- default, DT, k = 15 is: 0.32755208015441895.
+========================================

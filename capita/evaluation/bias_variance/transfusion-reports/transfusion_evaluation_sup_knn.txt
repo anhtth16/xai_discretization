@@ -1,0 +1,56 @@
+Evaluation result: Knn-Hamming, CM, k = 6
+Average expected loss: 0.364
+Average bias: 0.321
+Average variance: 0.224
+Sklearn 0-1 loss: 0.241
+Execution time Knn-Hamming- default, CM, k = 6 is: 1.5078158378601074.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 8
+Average expected loss: 0.364
+Average bias: 0.230
+Average variance: 0.249
+Sklearn 0-1 loss: 0.230
+Execution time Knn-Hamming- default, CM, k = 8 is: 1.396761178970337.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 10
+Average expected loss: 0.364
+Average bias: 0.230
+Average variance: 0.249
+Sklearn 0-1 loss: 0.230
+Execution time Knn-Hamming- default, cm, k = 10 is: 1.5159869194030762.
+========================================
+Evaluation result: Knn-Hamming, CM, k = 15
+Average expected loss: 0.364
+Average bias: 0.230
+Average variance: 0.249
+Sklearn 0-1 loss: 0.230
+Execution time Knn-Hamming- default, cm, k = 15 is: 1.438849687576294.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 2
+Average expected loss: 0.345
+Average bias: 0.262
+Average variance: 0.234
+Sklearn 0-1 loss: 0.219
+Execution time Knn-Hamming- default, DT, k = 15 is: 1.4749650955200195.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 3
+Average expected loss: 0.359
+Average bias: 0.316
+Average variance: 0.227
+Sklearn 0-1 loss: 0.214
+Execution time Knn-Hamming- default, DT, k = 15 is: 1.4656898975372314.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 4
+Average expected loss: 0.347
+Average bias: 0.305
+Average variance: 0.116
+Sklearn 0-1 loss: 0.214
+Execution time Knn-Hamming- default, DT, k = 15 is: 1.4275460243225098.
+========================================
+Evaluation result: Knn-Hamming, DT, max_depth = 5
+Average expected loss: 0.336
+Average bias: 0.305
+Average variance: 0.156
+Sklearn 0-1 loss: 0.251
+Execution time Knn-Hamming- default, DT, k = 15 is: 1.3922879695892334.
+========================================
