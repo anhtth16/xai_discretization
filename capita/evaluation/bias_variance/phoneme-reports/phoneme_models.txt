@@ -1,0 +1,420 @@
+Models results: model ID3, dataset phoneme, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.87      0.80      0.84       954
+           2       0.60      0.71      0.65       397
+
+    accuracy                           0.78      1351
+   macro avg       0.74      0.76      0.74      1351
+weighted avg       0.79      0.78      0.78      1351
+
+G-mean: 0.7565509167187976
+Time for training model ID3- default, EWD, k = 4 is: 0.07814192771911621.
+========================================
+Models results: model CNB, dataset phoneme, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.90      0.71      0.79       954
+           2       0.54      0.81      0.65       397
+
+    accuracy                           0.74      1351
+   macro avg       0.72      0.76      0.72      1351
+weighted avg       0.79      0.74      0.75      1351
+
+G-mean: 0.7574908824455265
+Time for training model CNB- default, EWD, k = 4 is: 0.02103710174560547.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization EWD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.82      0.81      0.82       954
+           2       0.56      0.57      0.56       397
+
+    accuracy                           0.74      1351
+   macro avg       0.69      0.69      0.69      1351
+weighted avg       0.74      0.74      0.74      1351
+
+G-mean: 0.6800418342455911
+Time for training model KNN-Hamming- default, EWD, k = 4 is: 0.3594491481781006.
+========================================
+Models results: model ID3, dataset phoneme, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.90      0.72      0.80       954
+           2       0.54      0.80      0.65       397
+
+    accuracy                           0.74      1351
+   macro avg       0.72      0.76      0.72      1351
+weighted avg       0.79      0.74      0.75      1351
+
+G-mean: 0.7590212794116422
+Time for training model ID3- default, EWD, k = 7 is: 0.07418012619018555.
+========================================
+Models results: model CNB, dataset phoneme, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.88      0.68      0.77       954
+           2       0.50      0.78      0.61       397
+
+    accuracy                           0.71      1351
+   macro avg       0.69      0.73      0.69      1351
+weighted avg       0.77      0.71      0.72      1351
+
+G-mean: 0.7294039057463295
+Time for training model CNB- default, EWD, k = 7 is: 0.013837099075317383.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization EWD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.85      0.88      0.86       954
+           2       0.67      0.61      0.64       397
+
+    accuracy                           0.80      1351
+   macro avg       0.76      0.74      0.75      1351
+weighted avg       0.79      0.80      0.80      1351
+
+G-mean: 0.733446955493989
+Time for training model KNN-Hamming- default, EWD, k = 7 is: 0.148878812789917.
+========================================
+Models results: model ID3, dataset phoneme, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.90      0.76      0.83       954
+           2       0.58      0.81      0.68       397
+
+    accuracy                           0.77      1351
+   macro avg       0.74      0.78      0.75      1351
+weighted avg       0.81      0.77      0.78      1351
+
+G-mean: 0.782662546687888
+Time for training model ID3- default, EWD, k = 10 is: 0.06561994552612305.
+========================================
+Models results: model CNB, dataset phoneme, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.88      0.73      0.80       954
+           2       0.54      0.76      0.63       397
+
+    accuracy                           0.74      1351
+   macro avg       0.71      0.74      0.71      1351
+weighted avg       0.78      0.74      0.75      1351
+
+G-mean: 0.7448031733814572
+Time for training model CNB- default, EWD, k = 10 is: 0.016614913940429688.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization EWD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.88      0.87      0.87       954
+           2       0.70      0.71      0.70       397
+
+    accuracy                           0.82      1351
+   macro avg       0.79      0.79      0.79      1351
+weighted avg       0.82      0.82      0.82      1351
+
+G-mean: 0.7852071238430884
+Time for training model KNN-Hamming- default, EWD, k = 10 is: 0.18993306159973145.
+========================================
+Models results: model ID3, dataset phoneme, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.93      0.69      0.79       954
+           2       0.54      0.87      0.67       397
+
+    accuracy                           0.74      1351
+   macro avg       0.73      0.78      0.73      1351
+weighted avg       0.81      0.74      0.76      1351
+
+G-mean: 0.7754231726578803
+Time for training model ID3- default, efd, k = 4 is: 0.06799173355102539.
+========================================
+Models results: model CNB, dataset phoneme, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.89      0.67      0.76       954
+           2       0.50      0.79      0.61       397
+
+    accuracy                           0.71      1351
+   macro avg       0.69      0.73      0.69      1351
+weighted avg       0.77      0.71      0.72      1351
+
+G-mean: 0.7295631626623748
+Time for training model CNB- default, efd, k = 4 is: 0.014278173446655273.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization EFD with parameter k = 4
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.86      0.87      0.87       954
+           2       0.68      0.67      0.68       397
+
+    accuracy                           0.81      1351
+   macro avg       0.77      0.77      0.77      1351
+weighted avg       0.81      0.81      0.81      1351
+
+G-mean: 0.7635024302563452
+Time for training model KNN-Hamming- default, efd, k = 4 is: 0.1785280704498291.
+========================================
+Models results: model ID3, dataset phoneme, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.93      0.68      0.79       954
+           2       0.54      0.88      0.67       397
+
+    accuracy                           0.74      1351
+   macro avg       0.73      0.78      0.73      1351
+weighted avg       0.82      0.74      0.75      1351
+
+G-mean: 0.7751166583890685
+Time for training model ID3- default, efd, k = 7 is: 0.0718998908996582.
+========================================
+Models results: model CNB, dataset phoneme, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.89      0.70      0.78       954
+           2       0.52      0.79      0.63       397
+
+    accuracy                           0.73      1351
+   macro avg       0.71      0.75      0.71      1351
+weighted avg       0.78      0.73      0.74      1351
+
+G-mean: 0.7442570389276452
+Time for training model CNB- default, efd, k = 7 is: 0.01753997802734375.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization EFD with parameter k = 7
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.88      0.86      0.87       954
+           2       0.69      0.72      0.71       397
+
+    accuracy                           0.82      1351
+   macro avg       0.79      0.79      0.79      1351
+weighted avg       0.83      0.82      0.82      1351
+
+G-mean: 0.7901965213668183
+Time for training model KNN-Hamming- default, efd, k = 7 is: 0.2002108097076416.
+========================================
+Models results: model ID3, dataset phoneme, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.93      0.68      0.79       954
+           2       0.53      0.88      0.66       397
+
+    accuracy                           0.74      1351
+   macro avg       0.73      0.78      0.73      1351
+weighted avg       0.81      0.74      0.75      1351
+
+G-mean: 0.7733313585328395
+Time for training model ID3- default, efd, k = 10 is: 0.08879709243774414.
+========================================
+Models results: model CNB, dataset phoneme, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.90      0.68      0.77       954
+           2       0.51      0.81      0.63       397
+
+    accuracy                           0.72      1351
+   macro avg       0.70      0.74      0.70      1351
+weighted avg       0.78      0.72      0.73      1351
+
+G-mean: 0.7410964861720498
+Time for training model CNB- default, efd, k = 10 is: 0.013871192932128906.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization EFD with parameter k = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.90      0.88      0.89       954
+           2       0.73      0.75      0.74       397
+
+    accuracy                           0.84      1351
+   macro avg       0.81      0.82      0.81      1351
+weighted avg       0.85      0.84      0.84      1351
+
+G-mean: 0.8148246360488934
+Time for training model KNN-Hamming- default, efd, k = 10 is: 0.17758393287658691.
+========================================
+Models results: model ID3, dataset phoneme, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.91      0.73      0.81       954
+           2       0.56      0.82      0.67       397
+
+    accuracy                           0.76      1351
+   macro avg       0.74      0.78      0.74      1351
+weighted avg       0.81      0.76      0.77      1351
+
+G-mean: 0.7774159659904886
+Time for training model ID3- default, ffd, m = 10 is: 0.8207311630249023.
+========================================
+Models results: model CNB, dataset phoneme, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.91      0.70      0.79       954
+           2       0.54      0.83      0.65       397
+
+    accuracy                           0.74      1351
+   macro avg       0.72      0.77      0.72      1351
+weighted avg       0.80      0.74      0.75      1351
+
+G-mean: 0.7646410596672879
+Time for training model CNB- default, ffd, m = 10 is: 0.02407693862915039.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization FFD with parameter m = 10
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.85      0.50      0.63       954
+           2       0.40      0.79      0.53       397
+
+    accuracy                           0.59      1351
+   macro avg       0.63      0.65      0.58      1351
+weighted avg       0.72      0.59      0.60      1351
+
+G-mean: 0.6298614457212358
+Time for training model KNN-Hamming- default, ffd, m = 10 is: 0.2153029441833496.
+========================================
+Models results: model ID3, dataset phoneme, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.91      0.74      0.81       954
+           2       0.57      0.83      0.67       397
+
+    accuracy                           0.76      1351
+   macro avg       0.74      0.78      0.74      1351
+weighted avg       0.81      0.76      0.77      1351
+
+G-mean: 0.7809029515275163
+Time for training model ID3- default, ffd, m = 30 is: 0.40715479850769043.
+========================================
+Models results: model CNB, dataset phoneme, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.90      0.70      0.79       954
+           2       0.53      0.82      0.64       397
+
+    accuracy                           0.73      1351
+   macro avg       0.72      0.76      0.71      1351
+weighted avg       0.79      0.73      0.74      1351
+
+G-mean: 0.7560027912754188
+Time for training model CNB- default, ffd, m = 30 is: 0.012791156768798828.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization FFD with parameter m = 30
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.87      0.71      0.78       954
+           2       0.52      0.73      0.61       397
+
+    accuracy                           0.72      1351
+   macro avg       0.69      0.72      0.69      1351
+weighted avg       0.76      0.72      0.73      1351
+
+G-mean: 0.7233535375513201
+Time for training model KNN-Hamming- default, ffd, m = 30 is: 0.16201305389404297.
+========================================
+Models results: model ID3, dataset phoneme, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.93      0.71      0.81       954
+           2       0.56      0.87      0.68       397
+
+    accuracy                           0.76      1351
+   macro avg       0.74      0.79      0.74      1351
+weighted avg       0.82      0.76      0.77      1351
+
+G-mean: 0.7858944773539621
+Time for training model ID3- default, ffd, m = 60 is: 0.21991491317749023.
+========================================
+Models results: model CNB, dataset phoneme, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.90      0.70      0.79       954
+           2       0.53      0.82      0.64       397
+
+    accuracy                           0.73      1351
+   macro avg       0.72      0.76      0.71      1351
+weighted avg       0.79      0.73      0.74      1351
+
+G-mean: 0.7548144036736157
+Time for training model CNB- default, ffd, m = 60 is: 0.011533975601196289.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization FFD with parameter m = 60
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.86      0.78      0.82       954
+           2       0.57      0.70      0.63       397
+
+    accuracy                           0.76      1351
+   macro avg       0.72      0.74      0.72      1351
+weighted avg       0.78      0.76      0.76      1351
+
+G-mean: 0.7403193974411658
+Time for training model KNN-Hamming- default, ffd, m = 60 is: 0.18883872032165527.
+========================================
+Models results: model ID3, dataset phoneme, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.91      0.74      0.82       954
+           2       0.57      0.83      0.68       397
+
+    accuracy                           0.77      1351
+   macro avg       0.74      0.79      0.75      1351
+weighted avg       0.81      0.77      0.78      1351
+
+G-mean: 0.7847866846562126
+Time for training model ID3- default, ffd, m = 100 is: 0.17667007446289062.
+========================================
+Models results: model CNB, dataset phoneme, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.90      0.71      0.79       954
+           2       0.54      0.81      0.64       397
+
+    accuracy                           0.74      1351
+   macro avg       0.72      0.76      0.72      1351
+weighted avg       0.79      0.74      0.75      1351
+
+G-mean: 0.756371161386334
+Time for training model CNB- default, ffd, m = 100 is: 0.011990070343017578.
+========================================
+Models results: model KNN-Hamming, dataset phoneme, discretization FFD with parameter m = 100
+Classification report
+              precision    recall  f1-score   support
+
+           1       0.87      0.78      0.82       954
+           2       0.58      0.71      0.64       397
+
+    accuracy                           0.76      1351
+   macro avg       0.72      0.75      0.73      1351
+weighted avg       0.78      0.76      0.77      1351
+
+G-mean: 0.747609094715365
+Time for training model KNN-Hamming- default, ffd, m = 100 is: 0.2221992015838623.
+========================================

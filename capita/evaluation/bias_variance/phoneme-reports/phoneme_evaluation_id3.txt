@@ -1,0 +1,70 @@
+Evaluation result: ID3, EWD, k = 4
+Average expected loss: 0.223
+Average bias: 0.223
+Average variance: 0.008
+Sklearn 0-1 loss: 0.224
+Execution time ID3- default, EWD, k = 4 is: 25.36061453819275.
+========================================
+Evaluation result: ID3, EWD, k = 7
+Average expected loss: 0.253
+Average bias: 0.257
+Average variance: 0.054
+Sklearn 0-1 loss: 0.258
+Execution time ID3- default, EWD, k = 7 is: 28.28815507888794.
+========================================
+Evaluation result: ID3, EWD, k = 10
+Average expected loss: 0.233
+Average bias: 0.226
+Average variance: 0.035
+Sklearn 0-1 loss: 0.226
+Execution time ID3- default, EWD, k = 10 is: 27.686739921569824.
+========================================
+Evaluation result: ID3, EFD, k = 4
+Average expected loss: 0.261
+Average bias: 0.255
+Average variance: 0.063
+Sklearn 0-1 loss: 0.255
+Execution time ID3- default, efd, k = 4 is: 26.378009796142578.
+========================================
+Evaluation result: ID3, EFD, k = 7
+Average expected loss: 0.255
+Average bias: 0.250
+Average variance: 0.061
+Sklearn 0-1 loss: 0.259
+Execution time ID3- default, efd, k = 7 is: 27.80810284614563.
+========================================
+Evaluation result: ID3, EFD, k = 10
+Average expected loss: 0.243
+Average bias: 0.238
+Average variance: 0.069
+Sklearn 0-1 loss: 0.261
+Execution time ID3- default, efd, k = 10 is: 28.717939376831055.
+========================================
+Evaluation result: ID3, FFD, m = 10
+Average expected loss: 0.236
+Average bias: 0.222
+Average variance: 0.077
+Sklearn 0-1 loss: 0.240
+Execution time ID3- default, ffd, m = 10 is: 171.51081681251526.
+========================================
+Evaluation result: ID3, FFD, m = 30
+Average expected loss: 0.235
+Average bias: 0.224
+Average variance: 0.074
+Sklearn 0-1 loss: 0.237
+Execution time ID3- default, ffd, m = 30 is: 51.461411237716675.
+========================================
+Evaluation result: ID3, FFD, m = 60
+Average expected loss: 0.236
+Average bias: 0.227
+Average variance: 0.076
+Sklearn 0-1 loss: 0.242
+Execution time ID3- default, ffd, m = 60 is: 32.321629762649536.
+========================================
+Evaluation result: ID3, FFD, m = 100
+Average expected loss: 0.235
+Average bias: 0.227
+Average variance: 0.071
+Sklearn 0-1 loss: 0.232
+Execution time ID3- default, ffd, m = 100 is: 25.236931085586548.
+========================================

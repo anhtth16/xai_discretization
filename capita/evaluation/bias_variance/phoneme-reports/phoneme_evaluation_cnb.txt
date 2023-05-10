@@ -1,0 +1,70 @@
+Evaluation result: CNB, EWD, k = 4
+Average expected loss: 0.262
+Average bias: 0.261
+Average variance: 0.006
+Sklearn 0-1 loss: 0.261
+Execution time CNB- default, EWD, k = 4 is: 0.9031131267547607.
+========================================
+Evaluation result: CNB, EWD, k = 7
+Average expected loss: 0.292
+Average bias: 0.289
+Average variance: 0.012
+Sklearn 0-1 loss: 0.289
+Execution time CNB- default, EWD, k = 7 is: 0.6662156581878662.
+========================================
+Evaluation result: CNB, EWD, k = 10
+Average expected loss: 0.257
+Average bias: 0.261
+Average variance: 0.011
+Sklearn 0-1 loss: 0.261
+Execution time CNB- default, EWD, k = 10 is: 0.6557252407073975.
+========================================
+Evaluation result: CNB, EFD, k = 4
+Average expected loss: 0.295
+Average bias: 0.296
+Average variance: 0.012
+Sklearn 0-1 loss: 0.292
+Execution time CNB- default, efd, k = 4 is: 0.9257407188415527.
+========================================
+Evaluation result: CNB, EFD, k = 7
+Average expected loss: 0.276
+Average bias: 0.275
+Average variance: 0.014
+Sklearn 0-1 loss: 0.274
+Execution time CNB- default, efd, k = 7 is: 0.9903504848480225.
+========================================
+Evaluation result: CNB, EFD, k = 10
+Average expected loss: 0.282
+Average bias: 0.282
+Average variance: 0.015
+Sklearn 0-1 loss: 0.283
+Execution time CNB- default, efd, k = 10 is: 0.6872351169586182.
+========================================
+Evaluation result: CNB, FFD, m = 10
+Average expected loss: 0.276
+Average bias: 0.260
+Average variance: 0.086
+Sklearn 0-1 loss: 0.260
+Execution time CNB- default, ffd, m = 10 is: 0.7908027172088623.
+========================================
+Evaluation result: CNB, FFD, m = 30
+Average expected loss: 0.274
+Average bias: 0.272
+Average variance: 0.054
+Sklearn 0-1 loss: 0.267
+Execution time CNB- default, ffd, m = 30 is: 0.8455758094787598.
+========================================
+Evaluation result: CNB, FFD, m = 60
+Average expected loss: 0.267
+Average bias: 0.267
+Average variance: 0.041
+Sklearn 0-1 loss: 0.267
+Execution time CNB- default, ffd, m = 60 is: 0.6372225284576416.
+========================================
+Evaluation result: CNB, FFD, m = 100
+Average expected loss: 0.265
+Average bias: 0.264
+Average variance: 0.032
+Sklearn 0-1 loss: 0.263
+Execution time CNB- default, ffd, m = 100 is: 0.6784520149230957.
+========================================
