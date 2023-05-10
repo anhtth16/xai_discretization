@@ -6,6 +6,7 @@ For full experiment pipeline, please refer to the [navigation guideline](https:/
 Scope:
 - Full experiment pipleline is performed on five datasets: adult, mustk, pageblock, phoneme, tranfusion
 - Reperform training KNN using Hamming distance and bias-variance decomposition on some datasets in phase 1
+- Total number of models (including phase 1): 540 models.
 
 Changes compared to phase 1:
 - ChiMerge: not using manually defined function. Replace with Scorecard Bundle library
