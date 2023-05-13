@@ -19,10 +19,10 @@ Scope of experiments:
 
 Evaluation:
 
-	- Inconsistency of dataset after discretization (See folder [Inconsistency](https://github.com/anhtth16/xai_discretization/tree/main/baseline/Inconsistency))
-	- Model performace: Accuracy, Bias, Variace
-	- Computing time for each process: discretization and training models
-	- Wilconxon two-sided tests for three variables
-	- High resolution figures are in folder [BNAIC-figures](https://github.com/anhtth16/xai_discretization/tree/main/baseline/bnaic-figures)
+- Inconsistency of dataset after discretization (See folder [Inconsistency](https://github.com/anhtth16/xai_discretization/tree/main/baseline/Inconsistency))
+- Model performace: Accuracy, Bias, Variace
+- Computing time for each process: discretization and training models
+- Wilconxon two-sided tests for three variables
+- High resolution figures are in folder [BNAIC-figures](https://github.com/anhtth16/xai_discretization/tree/main/baseline/bnaic-figures)
 
 The paper was presented at [BNAIC - BeNeLearn Conference 2022](https://bnaic2022.uantwerpen.be/wp-content/uploads/BNAICBeNeLearn_2022_submission_8652.pdf)
